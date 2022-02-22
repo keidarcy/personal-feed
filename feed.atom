@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-22T05:16:43.889Z</id>
+    <id>urn:2022-02-22T05:18:38.864Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-22T05:16:43.889Z</updated>
+    <updated>2022-02-22T05:18:38.864Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -87,16 +87,6 @@ A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Testing Pipeline 101 For Frontend Testing]]></title>
-        <id>https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/</id>
-        <link href="https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/"/>
-        <updated>2022-02-21T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Manage State in Your React Apps]]></title>
         <id>620fb6a621bfb3068cf2a92a</id>
         <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-your-react-apps/"/>
@@ -149,13 +139,23 @@ Comparing Node JavaScript to JavaScript in the Browser originally published on C
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thoughts On Markdown]]></title>
-        <id>https://smashingmagazine.com/2022/02/thoughts-on-markdown/</id>
-        <link href="https://smashingmagazine.com/2022/02/thoughts-on-markdown/"/>
-        <updated>2022-02-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.]]></summary>
+        <title type="html"><![CDATA[Code scanning finds more vulnerabilities using machine learning]]></title>
+        <id>https://github.blog/?p=63340</id>
+        <link href="https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/"/>
+        <updated>2022-02-17T18:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Today we launched new code scanning analysis features powered by machine learning. The experimental analysis finds more of the most common types of vulnerabilities.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Knut Melvær)</name>
+            <name>Tiferet Gazit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveraging machine learning to find security vulnerabilities]]></title>
+        <id>https://github.blog/?p=63320</id>
+        <link href="https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/"/>
+        <updated>2022-02-17T17:59:19.000Z</updated>
+        <summary type="html"><![CDATA[A behind-the-scenes peek into the machine learning framework powering new code scanning security alerts.]]></summary>
+        <author>
+            <name>Tiferet Gazit</name>
         </author>
     </entry>
     <entry>
@@ -193,6 +193,26 @@ Add-to-Calendar Button UI Widget originally published on CSS-Tricks. You should 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to make the most out of a mentoring relationship]]></title>
+        <id>https://github.blog/?p=63296</id>
+        <link href="https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/"/>
+        <updated>2022-02-16T18:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Tips from our developer advocates on how and why to find a mentor.]]></summary>
+        <author>
+            <name>Kelsey Bernius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encoding and escaping untrusted data to prevent injection attacks]]></title>
+        <id>https://github.blog/?p=63244</id>
+        <link href="https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/"/>
+        <updated>2022-02-16T17:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Practical tips on how to apply OWASP Top 10 Proactive Control C4.]]></summary>
+        <author>
+            <name>Jason White</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[An Auto-Filling CSS Grid With Max Columns of a Minimum Size]]></title>
         <id>https://css-tricks.com/?p=363541</id>
         <link href="https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/"/>
@@ -207,13 +227,13 @@ An Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Falling In Love With The Web: Inspiring Websites And Tools]]></title>
-        <id>https://smashingmagazine.com/2022/02/inspiring-websites-tools/</id>
-        <link href="https://smashingmagazine.com/2022/02/inspiring-websites-tools/"/>
-        <updated>2022-02-16T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!]]></summary>
+        <title type="html"><![CDATA[GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD]]></title>
+        <id>https://github.blog/?p=63223</id>
+        <link href="https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/"/>
+        <updated>2022-02-15T23:23:39.000Z</updated>
+        <summary type="html"><![CDATA[The GitHub Enterprise Server 3.4 release candidate delivers enhancements to make life easier and more productive.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>Ian Marsh</name>
         </author>
     </entry>
     <entry>
@@ -227,6 +247,26 @@ FLIP, coined by Paul Lewis, is an
 GSAP Flip Plugin for Animation originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The GitHub Stars in our eyes ⭐️]]></title>
+        <id>https://github.blog/?p=63146</id>
+        <link href="https://github.blog/2022-02-15-the-github-stars-in-our-eyes/"/>
+        <updated>2022-02-15T17:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Over the past year, the GitHub Stars have made a tremendous impact in the community with their influence, inspiring and building communities and creating content to help everyone.]]></summary>
+        <author>
+            <name>Anisha Pindoria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing the 2022 MLH Fellowship Cohort, powered by GitHub]]></title>
+        <id>https://github.blog/?p=63095</id>
+        <link href="https://github.blog/2022-02-15-announcing-2022-mlh-fellowship-cohort-powered-by-github/"/>
+        <updated>2022-02-15T15:58:09.000Z</updated>
+        <summary type="html"><![CDATA[The MLH Fellowship, powered by GitHub, is a 12-week internship alternative for aspiring software engineers. Meet the 2022 cohort!]]></summary>
+        <author>
+            <name>Ashley Bass</name>
         </author>
     </entry>
     <entry>
@@ -253,16 +293,6 @@ WordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Implications Of WordPress Joining The Block Protocol]]></title>
-        <id>https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/</id>
-        <link href="https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/"/>
-        <updated>2022-02-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why are hyperlinks blue?]]></title>
         <id>https://css-tricks.com/?p=363555</id>
         <link href="https://css-tricks.com/why-are-hyperlinks-blue/"/>
@@ -274,6 +304,16 @@ Why are hyperlinks blue? originally published on CSS-Tricks. You should get the 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Include diagrams in your Markdown files with Mermaid]]></title>
+        <id>https://github.blog/?p=63053</id>
+        <link href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/"/>
+        <updated>2022-02-14T16:57:42.000Z</updated>
+        <summary type="html"><![CDATA[A picture tells a thousand words. Now you can quickly create and edit diagrams in markdown using words with Mermaid support in your Markdown files.]]></summary>
+        <author>
+            <name>Martin Woodward</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Getting Started With the File System Access API]]></title>
         <id>https://css-tricks.com/?p=363339</id>
         <link href="https://css-tricks.com/getting-started-with-the-file-system-access-api/"/>
@@ -282,16 +322,6 @@ Why are hyperlinks blue? originally published on CSS-Tricks. You should get the 
 Getting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Charlie Gerard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Want To Know About Creating Voice User Interfaces]]></title>
-        <id>https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/</id>
-        <link href="https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/"/>
-        <updated>2022-02-14T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nick Babich &amp; Gleb Kuznetsov)</name>
         </author>
     </entry>
     <entry>
@@ -411,6 +441,16 @@ Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tri
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Getting started with project planning on GitHub]]></title>
+        <id>https://github.blog/?p=63029</id>
+        <link href="https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/"/>
+        <updated>2022-02-11T17:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Stop context switching. Keep your team’s project planning next to your code.]]></summary>
+        <author>
+            <name>Matt Butler</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Multi-Value CSS Properties With Optional Custom Property Values]]></title>
         <id>https://css-tricks.com/?p=363027</id>
         <link href="https://css-tricks.com/optional-custom-property-values-trick/"/>
@@ -426,133 +466,13 @@ Multi-Value CSS Properties With Optional Custom Property Values originally publi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Design Done Well: Perfectly Pointless]]></title>
-        <id>https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/</id>
-        <link href="https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/"/>
-        <updated>2022-02-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.]]></summary>
+        <title type="html"><![CDATA[How to start using reusable workflows with GitHub Actions]]></title>
+        <id>https://github.blog/?p=62982</id>
+        <link href="https://github.blog/2022-02-10-using-reusable-workflows-github-actions/"/>
+        <updated>2022-02-10T17:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Reusable workflows offer a simple and powerful way to avoid copying and pasting workflows across your repositories.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitts’ Law In The Touch Era]]></title>
-        <id>https://smashingmagazine.com/2022/02/fitts-law-touch-era/</id>
-        <link href="https://smashingmagazine.com/2022/02/fitts-law-touch-era/"/>
-        <updated>2022-02-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Steven Hoober)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statoscope: A Course Of Intensive Therapy For Your Bundle]]></title>
-        <id>https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/</id>
-        <link href="https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/"/>
-        <updated>2022-02-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sergey Melukov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using QR Codes In Your Business: Best Practices And Pitfalls]]></title>
-        <id>https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/</id>
-        <link href="https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/"/>
-        <updated>2022-02-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stanislav Khrustalev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Web Frameworks Solve: The Vanilla Alternative (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/</id>
-        <link href="https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/"/>
-        <updated>2022-02-04T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds]]></title>
-        <id>https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/</id>
-        <link href="https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/"/>
-        <updated>2022-02-03T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving JavaScript Bundle Performance With Code-Splitting]]></title>
-        <id>https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/</id>
-        <link href="https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/"/>
-        <updated>2022-02-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet “Touch Design For Mobile Interfaces”, A New Smashing Book]]></title>
-        <id>https://smashingmagazine.com/2022/02/touch-design-release/</id>
-        <link href="https://smashingmagazine.com/2022/02/touch-design-release/"/>
-        <updated>2022-02-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/</id>
-        <link href="https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/"/>
-        <updated>2022-01-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Web Frameworks Solve And How To Do Without Them (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/</id>
-        <link href="https://smashingmagazine.com/2022/01/web-frameworks-guide-part1/"/>
-        <updated>2022-01-28T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Noam Rosenthal dives deep into a few technical features that are common across frameworks, and explains how some of the different frameworks implement them and what they cost.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Underestimate The Software Administration UX]]></title>
-        <id>https://smashingmagazine.com/2022/01/software-administration-ux/</id>
-        <link href="https://smashingmagazine.com/2022/01/software-administration-ux/"/>
-        <updated>2022-01-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shell Zhu &amp; Adrian Jones)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New In DevTools?]]></title>
-        <id>https://smashingmagazine.com/2022/01/devtools-updates-2022/</id>
-        <link href="https://smashingmagazine.com/2022/01/devtools-updates-2022/"/>
-        <updated>2022-01-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With CSS Cascade Layers]]></title>
-        <id>https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/</id>
-        <link href="https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/"/>
-        <updated>2022-01-24T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+            <name>Brian Douglas</name>
         </author>
     </entry>
 </feed>
