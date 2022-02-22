@@ -1,143 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-22T05:18:38.864Z</id>
+    <id>urn:2022-02-22T10:52:46.304Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-22T05:18:38.864Z</updated>
+    <updated>2022-02-22T10:52:46.304Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[10 React Interview Questions You Should Know in 2022]]></title>
-        <id>6213b45e21bfb3068cf2c103</id>
-        <link href="https://www.freecodecamp.org/news/react-interview-questions-to-know/"/>
-        <updated>2022-02-22T00:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Feel confident about your React knowledge? Put it to the test! I have selected all of the major questions you should know as a React developer in 2022, whether you are interviewing for a hired position or not. These questions cover everything from the core concepts of React to a]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working from Home – Tips to Help You Stay Productive]]></title>
-        <id>6210c04621bfb3068cf2b0a6</id>
-        <link href="https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/"/>
-        <updated>2022-02-22T00:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Over the past few years, a lot of us have started working remotely. That's what I also did, and I fell in love with this life. Indeed, a bit more than two years ago, I started my first full-time job as a Software Engineer. And at the same time, I]]></summary>
-        <author>
-            <name>Gaël Thomas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Coding Classes – For Beginners [2022 Guide]]]></title>
-        <id>61d54402d2d9de084285c345</id>
-        <link href="https://www.freecodecamp.org/news/online-coding-classes-for-beginners-2022-guide/"/>
-        <updated>2022-02-21T19:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Learning how to code can help you start a great career as a software developer. There are many free courses you can take to cultivate the skills need to become a developer.  In this article, I'm going to show you 152 beginner friendly courses where you can learn computer]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Low-Code Development?]]></title>
-        <id>6213a92221bfb3068cf2c07b</id>
-        <link href="https://www.freecodecamp.org/news/what-is-low-code/"/>
-        <updated>2022-02-21T19:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a type of software development platform that enables developers to create applications without writing code.  Low-code platforms use visual drag and drop tools, pre-built components, and templates to help developers quickly create custom applications without any coding knowledge. I'm going to  introduce you to the basics of this]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python String to Array – How to Convert Text to a List]]></title>
-        <id>620e41a421bfb3068cf2a1aa</id>
-        <link href="https://www.freecodecamp.org/news/python-string-to-array-how-to-convert-text-to-a-list/"/>
-        <updated>2022-02-21T18:47:23.000Z</updated>
-        <summary type="html"><![CDATA[There will be times where you need to convert one data type to another. Fear not, because Python offers a variety of different ways to help you do that. In this article, you'll see a few of the ways in which you can convert a string to a list. Here]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a RESTful API Using Node, Express, and MongoDB]]></title>
-        <id>6210970621bfb3068cf2ae7a</id>
-        <link href="https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/"/>
-        <updated>2022-02-21T18:15:19.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll build a RESTful API using Node, Express, and MongoDB. We will create endpoints for creating data, reading data, updating data, and deleting data (basic CRUD operations). But before we get started, make sure you have Node installed in your system. If not, go to https://nodejs.org/en/download/ to]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux ln – How to Create a Symbolic Link in Linux [Example Bash Command]]]></title>
-        <id>618216378bcfae07ca4e073b</id>
-        <link href="https://www.freecodecamp.org/news/linux-ln-how-to-create-a-symbolic-link-in-linux-example-bash-command/"/>
-        <updated>2022-02-21T16:05:08.000Z</updated>
-        <summary type="html"><![CDATA[A symlink (symbolic) is a type of file that points to other files or directories (folders) in Linux.  You can create a symlink (symbolic) by using the ln command in the command line.  Symbolic links are useful because they act as shortcuts to a file or directory.]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide to CSS Cascade Layers]]></title>
-        <id>https://css-tricks.com/?p=363766</id>
-        <link href="https://css-tricks.com/css-cascade-layers/"/>
-        <updated>2022-02-21T15:40:35.000Z</updated>
-        <summary type="html"><![CDATA[This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …
-A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Miriam Suzanne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage State in Your React Apps]]></title>
-        <id>620fb6a621bfb3068cf2a92a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-your-react-apps/"/>
-        <updated>2022-02-18T20:55:31.000Z</updated>
-        <summary type="html"><![CDATA[Managing state in your React apps isn’t as simple as using useState or  useReducer. Not only are there are a lot of different kinds of state, but there often dozens of ways of managing each kind. Which should you choose? In this guide, we will uncover the several kinds]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove a Key from a Python Dictionary – Delete Key from Dict]]></title>
-        <id>620ea69721bfb3068cf2a59b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-a-key-from-a-python-dictionary-delete-key-from-dict/"/>
-        <updated>2022-02-18T20:32:40.000Z</updated>
-        <summary type="html"><![CDATA[A dictionary is a very powerful data collection in Python. Dictionaries help make database operations faster.  You can append items to an existing dictionary and remove them as well. In this blog post, we will learn how to delete "keys" using two methods:  1. Deleting key:value pairs using]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Node JavaScript to JavaScript in the Browser]]></title>
-        <id>https://css-tricks.com/?p=363467</id>
-        <link href="https://css-tricks.com/node-javascript-compared-to-javascript/"/>
-        <updated>2022-02-18T19:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Being able to understand Node continues to be an important skill if you’re a front-end developer. Deno has arrived as another way to run JavaScript outside the browser, but the huge ecosystem of tools and software built with Node mean …
-Comparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Hugh Haworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Python on Windows]]></title>
-        <id>620f5f5e21bfb3068cf2a6d8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-python-in-windows-operating-system/"/>
-        <updated>2022-02-18T16:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Before trying to run any Python program in your Windows operating system, you'll need to check if you have Python installed and added to the environment's path variable correctly. In this article, I will show you how you can check whether you have Python installed successfully in your operating system]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Jay Freestone’s) Front-End Predictions for 2022]]></title>
-        <id>https://css-tricks.com/?p=363911</id>
-        <link href="https://css-tricks.com/jay-freestone-front-end-predictions-for-2022/"/>
-        <updated>2022-02-18T15:34:39.000Z</updated>
-        <summary type="html"><![CDATA[I linked to Jay’s front-end predictions last year and I think they panned out pretty well. I think he’s got a bit of a knack for that wide-scope look at front-end, including tooling and architecture, as well as browser tech. …
-(Jay Freestone’s) Front-End Predictions for 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Code scanning finds more vulnerabilities using machine learning]]></title>
         <id>https://github.blog/?p=63340</id>
@@ -156,40 +23,6 @@ Comparing Node JavaScript to JavaScript in the Browser originally published on C
         <summary type="html"><![CDATA[A behind-the-scenes peek into the machine learning framework powering new code scanning security alerts.]]></summary>
         <author>
             <name>Tiferet Gazit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subsetting Font Awesome to Improve Performance]]></title>
-        <id>https://css-tricks.com/?p=363179</id>
-        <link href="https://css-tricks.com/subsetting-font-awesome-to-improve-performance/"/>
-        <updated>2022-02-17T15:21:41.000Z</updated>
-        <summary type="html"><![CDATA[Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …
-Subsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Things You Didn’t Know You Could Do With Netlify CLI￼]]></title>
-        <id>https://css-tricks.com/?p=363872</id>
-        <link href="https://css-tricks.com/top-things-you-didnt-know-you-could-do-with-netlify-cli/"/>
-        <updated>2022-02-17T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-First things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …
-Top Things You Didn’t Know You Could Do With Netlify CLI￼ originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add-to-Calendar Button UI Widget]]></title>
-        <id>https://css-tricks.com/?p=363861</id>
-        <link href="https://css-tricks.com/add-to-calendar-button-ui-widget/"/>
-        <updated>2022-02-17T01:14:21.000Z</updated>
-        <summary type="html"><![CDATA[A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …
-Add-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -213,20 +46,6 @@ Add-to-Calendar Button UI Widget originally published on CSS-Tricks. You should 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Auto-Filling CSS Grid With Max Columns of a Minimum Size]]></title>
-        <id>https://css-tricks.com/?p=363541</id>
-        <link href="https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/"/>
-        <updated>2022-02-16T15:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.
-The requirements are:
-The user specifies a maximum number of columns. This is the auto-filling grid’s “natural” 
-…
-An Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mike Herchel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD]]></title>
         <id>https://github.blog/?p=63223</id>
         <link href="https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/"/>
@@ -234,19 +53,6 @@ An Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published
         <summary type="html"><![CDATA[The GitHub Enterprise Server 3.4 release candidate delivers enhancements to make life easier and more productive.]]></summary>
         <author>
             <name>Ian Marsh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GSAP Flip Plugin for Animation]]></title>
-        <id>https://css-tricks.com/?p=363604</id>
-        <link href="https://css-tricks.com/gsap-flip-plugin-for-animation/"/>
-        <updated>2022-02-15T21:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Greensock made the GSAP Flip plugin free in the 3.9 release. FLIP is an animation concept that helps make super performance state-change animations. Ryan Mulligan has a good blog post: 
-FLIP, coined by Paul Lewis, is an 
-…
-GSAP Flip Plugin for Animation originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -270,40 +76,6 @@ GSAP Flip Plugin for Animation originally published on CSS-Tricks. You should ge
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6 Creative Ideas for CSS Link Hover Effects]]></title>
-        <id>https://css-tricks.com/?p=363124</id>
-        <link href="https://css-tricks.com/css-link-hover-effects/"/>
-        <updated>2022-02-15T15:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Creating CSS link hover effects can add a bit of flair to an otherwise bland webpage. If you’ve ever found yourself stumped trying to make a slick hover effect, then I have six CSS effects for you to take and …
-6 Creative Ideas for CSS Link Hover Effects originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Harshil Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress.com Has a New Home on YouTube]]></title>
-        <id>https://css-tricks.com/?p=363739</id>
-        <link href="https://css-tricks.com/wordpress-com-has-a-new-home-on-youtube/"/>
-        <updated>2022-02-15T15:35:35.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-✋ High fives to WordPress for releasing version 5.9 on January 29! This was the long-awaited introduction of the Site Editor and the reverberations are still being felt across the 43% slice of the …
-WordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why are hyperlinks blue?]]></title>
-        <id>https://css-tricks.com/?p=363555</id>
-        <link href="https://css-tricks.com/why-are-hyperlinks-blue/"/>
-        <updated>2022-02-14T20:13:31.000Z</updated>
-        <summary type="html"><![CDATA[Last year, Elise Blanchard did some great historical research and discovered that blue hyperlinks replaced black hyperlinks in 1993. They’ve been blue for so long now that the general advice I always hear is to keep them that way. There …
-Why are hyperlinks blue? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Include diagrams in your Markdown files with Mermaid]]></title>
         <id>https://github.blog/?p=63053</id>
         <link href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/"/>
@@ -314,133 +86,6 @@ Why are hyperlinks blue? originally published on CSS-Tricks. You should get the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Started With the File System Access API]]></title>
-        <id>https://css-tricks.com/?p=363339</id>
-        <link href="https://css-tricks.com/getting-started-with-the-file-system-access-api/"/>
-        <updated>2022-02-14T16:01:21.000Z</updated>
-        <summary type="html"><![CDATA[The File System Access API is a web API that allows read and write access to a user’s local files. It unlocks new capabilities to build powerful web applications, such as text editors or IDEs, image editing tools, improved …
-Getting Started With the File System Access API originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Charlie Gerard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.4]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4"/>
-        <updated>2022-02-14T06:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Several style issues]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3"/>
-        <updated>2022-02-14T06:29:16.000Z</updated>
-        <summary type="html"><![CDATA[style tweak]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2"/>
-        <updated>2022-02-14T05:53:33.000Z</updated>
-        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
-New: Card title now toggles card content
-New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
-New: Build timestamp now links to the GitHub Action run
-Changed: Sources are sorted based on publish time rather than alphabetical order
-Changed: Style adjusted for easier reading
-Fixed: Horizontal overflow on Safari
-Fixed: HTML syntax error in default template]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1"/>
-        <updated>2022-02-14T05:26:23.000Z</updated>
-        <summary type="html"><![CDATA[git typo in gh run url]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.0: V1.14.0 (#79)]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0"/>
-        <updated>2022-02-14T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
-New: Card title now toggles card content
-New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
-New: Build timestamp now links to the GitHub Action run
-Changed: Sources are sorted based on publish time rather than alphabetical order
-Changed: Style adjusted for easier reading
-Fixed: Horizontal overflow on Safari
-Fixed: HTML syntax error in default template]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.13.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"/>
-        <updated>2022-02-13T05:05:17.000Z</updated>
-        <summary type="html"><![CDATA[New: Thumbnail image display for each article
-New: Improved color, spacing, and typography for easier reading
-New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
-Changed: All sections are expanded by default
-Changed: Switched to vitest for easier testing
-Fixed: Long string (e.g. URL) caused horizontal overflow
-Thank you: @naari3, @tianheg]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.12.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"/>
-        <updated>2022-02-12T17:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Future articles appeared in the feed
-Fxied: Security vulnerability from axios
-Thank you: @naari3]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your CSS reset needs text-size-adjust (probably)]]></title>
-        <id>https://css-tricks.com/?p=363498</id>
-        <link href="https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/"/>
-        <updated>2022-02-12T00:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Kilian Valkhof:
-[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a 
-…
-Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 New React and JavaScript Links for February 2022]]></title>
-        <id>https://css-tricks.com/?p=363396</id>
-        <link href="https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/"/>
-        <updated>2022-02-11T23:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …
-9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Getting started with project planning on GitHub]]></title>
         <id>https://github.blog/?p=63029</id>
         <link href="https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/"/>
@@ -448,21 +93,6 @@ Your CSS reset needs text-size-adjust (probably) originally published on CSS-Tri
         <summary type="html"><![CDATA[Stop context switching. Keep your team’s project planning next to your code.]]></summary>
         <author>
             <name>Matt Butler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Value CSS Properties With Optional Custom Property Values]]></title>
-        <id>https://css-tricks.com/?p=363027</id>
-        <link href="https://css-tricks.com/optional-custom-property-values-trick/"/>
-        <updated>2022-02-11T15:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:
-.el {
-  transform: translate(100px) scale(1.5) skew(5deg);
-}
-Now imagine you don’t always want all the transform values to be applied, so some …
-Multi-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Yair Even Or</name>
         </author>
     </entry>
     <entry>
