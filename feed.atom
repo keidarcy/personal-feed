@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-22T10:52:46.304Z</id>
+    <id>urn:2022-02-23T01:12:28.154Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-22T10:52:46.304Z</updated>
+    <updated>2022-02-23T01:12:28.154Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Get started with ease using security workflows!]]></title>
+        <id>https://github.blog/?p=63410</id>
+        <link href="https://github.blog/2022-02-22-get-started-using-security-workflows/"/>
+        <updated>2022-02-22T17:18:57.000Z</updated>
+        <summary type="html"><![CDATA[In-line with the other categories, workflows in the Security category will be recommended based on a repository's content.]]></summary>
+        <author>
+            <name>Pulkit Agarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Advisory Database now open to community contributions]]></title>
+        <id>https://github.blog/?p=63397</id>
+        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
+        <updated>2022-02-22T17:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Anyone can now provide additional information to further the community’s understanding and awareness of security advisories.]]></summary>
+        <author>
+            <name>Kate Catlin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code scanning finds more vulnerabilities using machine learning]]></title>
         <id>https://github.blog/?p=63340</id>
@@ -83,26 +103,6 @@
         <summary type="html"><![CDATA[A picture tells a thousand words. Now you can quickly create and edit diagrams in markdown using words with Mermaid support in your Markdown files.]]></summary>
         <author>
             <name>Martin Woodward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting started with project planning on GitHub]]></title>
-        <id>https://github.blog/?p=63029</id>
-        <link href="https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/"/>
-        <updated>2022-02-11T17:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Stop context switching. Keep your team’s project planning next to your code.]]></summary>
-        <author>
-            <name>Matt Butler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to start using reusable workflows with GitHub Actions]]></title>
-        <id>https://github.blog/?p=62982</id>
-        <link href="https://github.blog/2022-02-10-using-reusable-workflows-github-actions/"/>
-        <updated>2022-02-10T17:56:42.000Z</updated>
-        <summary type="html"><![CDATA[Reusable workflows offer a simple and powerful way to avoid copying and pasting workflows across your repositories.]]></summary>
-        <author>
-            <name>Brian Douglas</name>
         </author>
     </entry>
 </feed>
