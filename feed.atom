@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-23T01:32:59.957Z</id>
+    <id>urn:2022-02-24T01:10:27.784Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-23T01:32:59.957Z</updated>
+    <updated>2022-02-24T01:10:27.784Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A new way to understand your GitHub-hosted runner capacity]]></title>
+        <id>https://github.blog/?p=63444</id>
+        <link href="https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/"/>
+        <updated>2022-02-23T19:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Explore and understand your overall GitHub-hosted Actions runner capacity with the new runner view.]]></summary>
+        <author>
+            <name>Ben De St Paer-Gotch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codespaces for the largest repositories just got faster]]></title>
+        <id>https://github.blog/?p=63238</id>
+        <link href="https://github.blog/2022-02-23-codespaces-largest-repositories-faster/"/>
+        <updated>2022-02-23T18:10:01.000Z</updated>
+        <summary type="html"><![CDATA[The ability to prebuild codespaces is entering public beta. Enable fast environment creation times, regardless of the size and complexity of your repositories.]]></summary>
+        <author>
+            <name>Tanmayee Kamath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get started with ease using security workflows!]]></title>
         <id>https://github.blog/?p=63410</id>
@@ -83,26 +103,6 @@
         <summary type="html"><![CDATA[Over the past year, the GitHub Stars have made a tremendous impact in the community with their influence, inspiring and building communities and creating content to help everyone.]]></summary>
         <author>
             <name>Anisha Pindoria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing the 2022 MLH Fellowship Cohort, powered by GitHub]]></title>
-        <id>https://github.blog/?p=63095</id>
-        <link href="https://github.blog/2022-02-15-announcing-2022-mlh-fellowship-cohort-powered-by-github/"/>
-        <updated>2022-02-15T15:58:09.000Z</updated>
-        <summary type="html"><![CDATA[The MLH Fellowship, powered by GitHub, is a 12-week internship alternative for aspiring software engineers. Meet the 2022 cohort!]]></summary>
-        <author>
-            <name>Ashley Bass</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Include diagrams in your Markdown files with Mermaid]]></title>
-        <id>https://github.blog/?p=63053</id>
-        <link href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/"/>
-        <updated>2022-02-14T16:57:42.000Z</updated>
-        <summary type="html"><![CDATA[A picture tells a thousand words. Now you can quickly create and edit diagrams in markdown using words with Mermaid support in your Markdown files.]]></summary>
-        <author>
-            <name>Martin Woodward</name>
         </author>
     </entry>
 </feed>
