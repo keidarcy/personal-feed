@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-24T01:22:52.056Z</id>
+    <id>urn:2022-02-25T01:09:57.257Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-24T01:22:52.056Z</updated>
+    <updated>2022-02-25T01:09:57.257Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -30,7 +30,7 @@
         <id>https://github.blog/?p=63410</id>
         <link href="https://github.blog/2022-02-22-get-started-using-security-workflows/"/>
         <updated>2022-02-22T17:18:57.000Z</updated>
-        <summary type="html"><![CDATA[In-line with the other categories, workflows in the Security category will be recommended based on a repository's content.]]></summary>
+        <summary type="html"><![CDATA[GitHub Actions workflows in the Security category will now appear among the workflow recommendations based on a repository's content.]]></summary>
         <author>
             <name>Pulkit Agarwal</name>
         </author>

@@ -11,7 +11,7 @@
           "description": "Explore and understand your overall GitHub-hosted Actions runner capacity with the new runner view.",
           "link": "https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/",
           "publishedOn": "2022-02-23T19:54:16.000Z",
-          "wordCount": 394,
+          "wordCount": 396,
           "title": "A new way to understand your GitHub-hosted runner capacity",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/github-hosted-runners-usage.png"
         },
@@ -21,17 +21,17 @@
           "description": "The ability to prebuild codespaces is entering public beta. Enable fast environment creation times, regardless of the size and complexity of your repositories.",
           "link": "https://github.blog/2022-02-23-codespaces-largest-repositories-faster/",
           "publishedOn": "2022-02-23T18:10:01.000Z",
-          "wordCount": 1014,
+          "wordCount": 1015,
           "title": "Codespaces for the largest repositories just got faster",
           "imageUrl": "https://github.blog/wp-content/uploads/2021/08/1200x630-codespaces-social-3.png"
         },
         {
           "id": "https://github.blog/?p=63410",
           "author": "Pulkit Agarwal",
-          "description": "In-line with the other categories, workflows in the Security category will be recommended based on a repository's content.",
+          "description": "GitHub Actions workflows in the Security category will now appear among the workflow recommendations based on a repository's content.",
           "link": "https://github.blog/2022-02-22-get-started-using-security-workflows/",
           "publishedOn": "2022-02-22T17:18:57.000Z",
-          "wordCount": 579,
+          "wordCount": 580,
           "title": "Get started with ease using security workflows!",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Product_green@2x.png"
         },
@@ -51,7 +51,7 @@
           "description": "Today we launched new code scanning analysis features powered by machine learning. The experimental analysis finds more of the most common types of vulnerabilities.",
           "link": "https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/",
           "publishedOn": "2022-02-17T18:00:03.000Z",
-          "wordCount": 943,
+          "wordCount": 944,
           "title": "Code scanning finds more vulnerabilities using machine learning",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/experimental-alert-screenshot.png"
         },
@@ -61,7 +61,7 @@
           "description": "A behind-the-scenes peek into the machine learning framework powering new code scanning security alerts.",
           "link": "https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/",
           "publishedOn": "2022-02-17T17:59:19.000Z",
-          "wordCount": 1979,
+          "wordCount": 1980,
           "title": "Leveraging machine learning to find security vulnerabilities",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/diagram.png"
         },
