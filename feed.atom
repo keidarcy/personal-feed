@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-02T01:18:27.526Z</id>
+    <id>urn:2022-03-03T01:18:08.650Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-02T01:18:27.526Z</updated>
+    <updated>2022-03-03T01:18:08.650Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Availability Report: February 2022]]></title>
+        <id>https://github.blog/?p=63536</id>
+        <link href="https://github.blog/2022-03-02-github-availability-report-february-2022/"/>
+        <updated>2022-03-02T23:24:53.000Z</updated>
+        <summary type="html"><![CDATA[In February, we experienced one incident resulting in significant impact to multiple GitHub services.]]></summary>
+        <author>
+            <name>Scott Sanders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our response to the war in Ukraine]]></title>
+        <id>https://github.blog/?p=63524</id>
+        <link href="https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/"/>
+        <updated>2022-03-02T21:56:01.000Z</updated>
+        <summary type="html"><![CDATA[As the global response to the tragedies in Ukraine and other impacted regions continues to evolve, I wanted to share with our community an expansion of the message that I shared earlier this week with our Hubbers.]]></summary>
+        <author>
+            <name>Thomas Dohmke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A new way to understand your GitHub-hosted runner capacity]]></title>
         <id>https://github.blog/?p=63444</id>
@@ -83,26 +103,6 @@
         <summary type="html"><![CDATA[Practical tips on how to apply OWASP Top 10 Proactive Control C4.]]></summary>
         <author>
             <name>Jason White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD]]></title>
-        <id>https://github.blog/?p=63223</id>
-        <link href="https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/"/>
-        <updated>2022-02-15T23:23:39.000Z</updated>
-        <summary type="html"><![CDATA[The GitHub Enterprise Server 3.4 release candidate delivers enhancements to make life easier and more productive.]]></summary>
-        <author>
-            <name>Ian Marsh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The GitHub Stars in our eyes ⭐️]]></title>
-        <id>https://github.blog/?p=63146</id>
-        <link href="https://github.blog/2022-02-15-the-github-stars-in-our-eyes/"/>
-        <updated>2022-02-15T17:17:19.000Z</updated>
-        <summary type="html"><![CDATA[Over the past year, the GitHub Stars have made a tremendous impact in the community with their influence, inspiring and building communities and creating content to help everyone.]]></summary>
-        <author>
-            <name>Anisha Pindoria</name>
         </author>
     </entry>
 </feed>

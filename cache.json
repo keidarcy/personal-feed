@@ -6,6 +6,26 @@
       "siteUrl": "https://github.blog",
       "articles": [
         {
+          "id": "https://github.blog/?p=63536",
+          "author": "Scott Sanders",
+          "description": "In February, we experienced one incident resulting in significant impact to multiple GitHub services.",
+          "link": "https://github.blog/2022-03-02-github-availability-report-february-2022/",
+          "publishedOn": "2022-03-02T23:24:53.000Z",
+          "wordCount": 508,
+          "title": "GitHub Availability Report: February 2022",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Engineering-Enterprise@2x.png"
+        },
+        {
+          "id": "https://github.blog/?p=63524",
+          "author": "Thomas Dohmke",
+          "description": "As the global response to the tragedies in Ukraine and other impacted regions continues to evolve, I wanted to share with our community an expansion of the message that I shared earlier this week with our Hubbers.",
+          "link": "https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/",
+          "publishedOn": "2022-03-02T21:56:01.000Z",
+          "wordCount": 918,
+          "title": "Our response to the war in Ukraine",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png"
+        },
+        {
           "id": "https://github.blog/?p=63444",
           "author": "Ben De St Paer-Gotch",
           "description": "Explore and understand your overall GitHub-hosted Actions runner capacity with the new runner view.",
@@ -21,7 +41,7 @@
           "description": "The ability to prebuild codespaces is entering public beta. Enable fast environment creation times, regardless of the size and complexity of your repositories.",
           "link": "https://github.blog/2022-02-23-codespaces-largest-repositories-faster/",
           "publishedOn": "2022-02-23T18:10:01.000Z",
-          "wordCount": 1015,
+          "wordCount": 1008,
           "title": "Codespaces for the largest repositories just got faster",
           "imageUrl": "https://github.blog/wp-content/uploads/2021/08/1200x630-codespaces-social-3.png"
         },
@@ -61,7 +81,7 @@
           "description": "A behind-the-scenes peek into the machine learning framework powering new code scanning security alerts.",
           "link": "https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/",
           "publishedOn": "2022-02-17T17:59:19.000Z",
-          "wordCount": 1980,
+          "wordCount": 1975,
           "title": "Leveraging machine learning to find security vulnerabilities",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/diagram.png"
         },
@@ -84,26 +104,6 @@
           "wordCount": 1756,
           "title": "Encoding and escaping untrusted data to prevent injection attacks",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Security-Community2@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=63223",
-          "author": "Ian Marsh",
-          "description": "The GitHub Enterprise Server 3.4 release candidate delivers enhancements to make life easier and more productive.",
-          "link": "https://github.blog/2022-02-15-ghes-3-4-developer-productivity-reusable-workflows-ci-cd/",
-          "publishedOn": "2022-02-15T23:23:39.000Z",
-          "wordCount": 1015,
-          "title": "GitHub Enterprise Server 3.4 improves developer productivity and adds reusable workflows to CI/CD",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/ghes-3-4-rc_banner.png"
-        },
-        {
-          "id": "https://github.blog/?p=63146",
-          "author": "Anisha Pindoria",
-          "description": "Over the past year, the GitHub Stars have made a tremendous impact in the community with their influence, inspiring and building communities and creating content to help everyone.",
-          "link": "https://github.blog/2022-02-15-the-github-stars-in-our-eyes/",
-          "publishedOn": "2022-02-15T17:17:19.000Z",
-          "wordCount": 1477,
-          "title": "The GitHub Stars in our eyes ⭐️",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/GitHub-Stars-2021-in-review_banner.png"
         }
       ]
     },
