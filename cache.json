@@ -41,7 +41,7 @@
           "description": "The ability to prebuild codespaces is entering public beta. Enable fast environment creation times, regardless of the size and complexity of your repositories.",
           "link": "https://github.blog/2022-02-23-codespaces-largest-repositories-faster/",
           "publishedOn": "2022-02-23T18:10:01.000Z",
-          "wordCount": 1008,
+          "wordCount": 1026,
           "title": "Codespaces for the largest repositories just got faster",
           "imageUrl": "https://github.blog/wp-content/uploads/2021/08/1200x630-codespaces-social-3.png"
         },
@@ -51,7 +51,7 @@
           "description": "GitHub Actions workflows in the Security category will now appear among the workflow recommendations based on a repository's content.",
           "link": "https://github.blog/2022-02-22-get-started-using-security-workflows/",
           "publishedOn": "2022-02-22T17:18:57.000Z",
-          "wordCount": 580,
+          "wordCount": 598,
           "title": "Get started with ease using security workflows!",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Product_green@2x.png"
         },
