@@ -9,4 +9,5 @@ sources:
 #   - href: https://css-tricks.com/feed/
   - href: https://github.blog/feed/ # https://github.com
   - href: https://developers.google.com/web/updates/rss.xml # https://developers.google.com/
+  - href: https://code.visualstudio.com/feed.xml # 
 #   - href: https://www.freecodecamp.org/news/rss/
