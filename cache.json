@@ -112,6 +112,23 @@
       "feedUrl": "https://developers.google.com/web/updates/rss.xml",
       "siteUrl": "https://developers.google.com/web/updates/?utm_source=feed&utm_medium=feed&utm_campaign=updates_feed",
       "articles": []
+    },
+    {
+      "title": "Visual Studio Code - Code Editing. Redefined.",
+      "feedUrl": "https://code.visualstudio.com/feed.xml",
+      "siteUrl": "https://code.visualstudio.com/",
+      "articles": [
+        {
+          "id": "https://code.visualstudio.com/updates/v1_65",
+          "author": null,
+          "description": "Visual Studio Code February 2022\nRead the full article",
+          "link": "https://code.visualstudio.com/updates/v1_65",
+          "publishedOn": "2022-03-03T17:00:00.000Z",
+          "wordCount": 5472,
+          "title": "Visual Studio Code February 2022",
+          "imageUrl": "https://code.visualstudio.com/assets/updates/1_65/release-highlights.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.14.4"
