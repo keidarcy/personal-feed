@@ -6,12 +6,22 @@
       "siteUrl": "https://github.blog",
       "articles": [
         {
+          "id": "https://github.blog/?p=63558",
+          "author": "Melody Mileski",
+          "description": "We've introduced several new features to help enterprise owners more easily manage their accounts, including two features now in public beta.",
+          "link": "https://github.blog/2022-03-10-improved-management-github-enterprise-owners/",
+          "publishedOn": "2022-03-10T18:36:50.000Z",
+          "wordCount": 568,
+          "title": "Improved management for GitHub Enterprise owners",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Enterprise-Product@2x-1.png"
+        },
+        {
           "id": "https://github.blog/?p=63536",
           "author": "Jakub Oleksy",
           "description": "In February, we experienced one incident resulting in significant impact to multiple GitHub services.",
           "link": "https://github.blog/2022-03-02-github-availability-report-february-2022/",
           "publishedOn": "2022-03-02T23:24:53.000Z",
-          "wordCount": 508,
+          "wordCount": 515,
           "title": "GitHub Availability Report: February 2022",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Engineering-Enterprise@2x.png"
         },
@@ -31,7 +41,7 @@
           "description": "Explore and understand your overall GitHub-hosted Actions runner capacity with the new runner view.",
           "link": "https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/",
           "publishedOn": "2022-02-23T19:54:16.000Z",
-          "wordCount": 396,
+          "wordCount": 398,
           "title": "A new way to understand your GitHub-hosted runner capacity",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/github-hosted-runners-usage.png"
         },
@@ -41,7 +51,7 @@
           "description": "The ability to prebuild codespaces is entering public beta. Enable fast environment creation times, regardless of the size and complexity of your repositories.",
           "link": "https://github.blog/2022-02-23-codespaces-largest-repositories-faster/",
           "publishedOn": "2022-02-23T18:10:01.000Z",
-          "wordCount": 1026,
+          "wordCount": 1027,
           "title": "Codespaces for the largest repositories just got faster",
           "imageUrl": "https://github.blog/wp-content/uploads/2021/08/1200x630-codespaces-social-3.png"
         },
@@ -51,7 +61,7 @@
           "description": "GitHub Actions workflows in the Security category will now appear among the workflow recommendations based on a repository's content.",
           "link": "https://github.blog/2022-02-22-get-started-using-security-workflows/",
           "publishedOn": "2022-02-22T17:18:57.000Z",
-          "wordCount": 598,
+          "wordCount": 593,
           "title": "Get started with ease using security workflows!",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Product_green@2x.png"
         },
@@ -61,7 +71,7 @@
           "description": "Anyone can now provide additional information to further the community’s understanding and awareness of security advisories.",
           "link": "https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/",
           "publishedOn": "2022-02-22T17:00:43.000Z",
-          "wordCount": 772,
+          "wordCount": 768,
           "title": "GitHub Advisory Database now open to community contributions",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Security-Product-Open-Source@2x.png"
         },
@@ -71,7 +81,7 @@
           "description": "Today we launched new code scanning analysis features powered by machine learning. The experimental analysis finds more of the most common types of vulnerabilities.",
           "link": "https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/",
           "publishedOn": "2022-02-17T18:00:03.000Z",
-          "wordCount": 944,
+          "wordCount": 939,
           "title": "Code scanning finds more vulnerabilities using machine learning",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/experimental-alert-screenshot.png"
         },
@@ -81,7 +91,7 @@
           "description": "A behind-the-scenes peek into the machine learning framework powering new code scanning security alerts.",
           "link": "https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/",
           "publishedOn": "2022-02-17T17:59:19.000Z",
-          "wordCount": 1975,
+          "wordCount": 1974,
           "title": "Leveraging machine learning to find security vulnerabilities",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/diagram.png"
         },
@@ -94,16 +104,6 @@
           "wordCount": 1637,
           "title": "How to make the most out of a mentoring relationship",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Community-Company_teal-orange@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=63244",
-          "author": "Jason White",
-          "description": "Practical tips on how to apply OWASP Top 10 Proactive Control C4.",
-          "link": "https://github.blog/2022-02-16-encoding-escaping-untrusted-data-prevent-injection-attacks/",
-          "publishedOn": "2022-02-16T17:38:40.000Z",
-          "wordCount": 1756,
-          "title": "Encoding and escaping untrusted data to prevent injection attacks",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Security-Community2@2x.png"
         }
       ]
     },
@@ -119,12 +119,22 @@
       "siteUrl": "https://code.visualstudio.com/",
       "articles": [
         {
+          "id": "https://code.visualstudio.com/blogs/2022/03/08/the-tutorial-problem",
+          "author": null,
+          "description": "Read the full article",
+          "link": "https://code.visualstudio.com/blogs/2022/03/08/the-tutorial-problem",
+          "publishedOn": "2022-03-08T00:00:00.000Z",
+          "wordCount": 2016,
+          "title": "The problem with tutorials",
+          "imageUrl": "https://code.visualstudio.com/opengraphimg/opengraph-blog.png"
+        },
+        {
           "id": "https://code.visualstudio.com/updates/v1_65",
           "author": null,
           "description": "Visual Studio Code February 2022\nRead the full article",
           "link": "https://code.visualstudio.com/updates/v1_65",
           "publishedOn": "2022-03-03T17:00:00.000Z",
-          "wordCount": 5472,
+          "wordCount": 5479,
           "title": "Visual Studio Code February 2022",
           "imageUrl": "https://code.visualstudio.com/assets/updates/1_65/release-highlights.png"
         }
