@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-14T00:46:42.250Z</id>
+    <id>urn:2022-03-21T00:45:51.351Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T00:46:42.250Z</updated>
+    <updated>2022-03-21T00:45:51.351Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Release Radar · February 2022 Edition]]></title>
+        <id>https://github.blog/?p=63572</id>
+        <link href="https://github.blog/2022-03-17-release-radar-feb-2022/"/>
+        <updated>2022-03-17T23:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Our community has shipped lots of open source project updates in the last month. Here's a few of our staff picks.]]></summary>
+        <author>
+            <name>Michelle Mannering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save time with partial re-runs in GitHub Actions]]></title>
+        <id>https://github.blog/?p=63632</id>
+        <link href="https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/"/>
+        <updated>2022-03-16T14:37:06.000Z</updated>
+        <summary type="html"><![CDATA[It is now possible to re-run only failed jobs or a single job in GitHub Actions workflows.]]></summary>
+        <author>
+            <name>Cameron Booth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Improved management for GitHub Enterprise owners]]></title>
         <id>https://github.blog/?p=63558</id>
@@ -94,36 +114,6 @@ Read the full article]]></summary>
         <summary type="html"><![CDATA[Anyone can now provide additional information to further the community’s understanding and awareness of security advisories.]]></summary>
         <author>
             <name>Kate Catlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code scanning finds more vulnerabilities using machine learning]]></title>
-        <id>https://github.blog/?p=63340</id>
-        <link href="https://github.blog/2022-02-17-code-scanning-finds-vulnerabilities-using-machine-learning/"/>
-        <updated>2022-02-17T18:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Today we launched new code scanning analysis features powered by machine learning. The experimental analysis finds more of the most common types of vulnerabilities.]]></summary>
-        <author>
-            <name>Tiferet Gazit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leveraging machine learning to find security vulnerabilities]]></title>
-        <id>https://github.blog/?p=63320</id>
-        <link href="https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/"/>
-        <updated>2022-02-17T17:59:19.000Z</updated>
-        <summary type="html"><![CDATA[A behind-the-scenes peek into the machine learning framework powering new code scanning security alerts.]]></summary>
-        <author>
-            <name>Tiferet Gazit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to make the most out of a mentoring relationship]]></title>
-        <id>https://github.blog/?p=63296</id>
-        <link href="https://github.blog/2022-02-16-how-to-make-the-most-out-of-a-mentoring-relationship/"/>
-        <updated>2022-02-16T18:17:15.000Z</updated>
-        <summary type="html"><![CDATA[Tips from our developer advocates on how and why to find a mentor.]]></summary>
-        <author>
-            <name>Kelsey Bernius</name>
         </author>
     </entry>
 </feed>
