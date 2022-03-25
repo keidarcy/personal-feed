@@ -10,4 +10,5 @@ sources:
   - href: https://github.blog/feed/ # https://github.com
   - href: https://developers.google.com/web/updates/rss.xml # https://developers.google.com/
   - href: https://code.visualstudio.com/feed.xml # 
+  - href: https://devblogs.microsoft.com/typescript/feed/
 #   - href: https://www.freecodecamp.org/news/rss/
