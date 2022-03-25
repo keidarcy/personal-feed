@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-21T00:45:51.351Z</id>
+    <id>urn:2022-03-25T01:28:17.823Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-21T00:45:51.351Z</updated>
+    <updated>2022-03-25T01:28:17.823Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[An update on recent service disruptions]]></title>
+        <id>https://github.blog/?p=63774</id>
+        <link href="https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/"/>
+        <updated>2022-03-23T20:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few weeks, we have experienced multiple incidents due to the health of our database. We wanted to share what we know about these incidents while our team continues to address them.]]></summary>
+        <author>
+            <name>Keith Ballinger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions: secure self-hosted runners by limiting them to specific workflows]]></title>
+        <id>https://github.blog/?p=63742</id>
+        <link href="https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/"/>
+        <updated>2022-03-23T16:30:24.000Z</updated>
+        <summary type="html"><![CDATA[You can now enforce consistent usage of self-hosted runner groups across your organization and enterprise.]]></summary>
+        <author>
+            <name>Jennifer Schelkopf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving your GitHub feed]]></title>
+        <id>https://github.blog/?p=63729</id>
+        <link href="https://github.blog/2022-03-22-improving-your-github-feed/"/>
+        <updated>2022-03-22T23:47:44.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are rolling out a new beta version of GitHub’s home feed, making it easier to discover projects, developers and more across GitHub.]]></summary>
+        <author>
+            <name>Bruce Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the GHES repository cache]]></title>
+        <id>https://github.blog/?p=63715</id>
+        <link href="https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/"/>
+        <updated>2022-03-22T17:48:06.000Z</updated>
+        <summary type="html"><![CDATA[If you're a GHES customer with heavy read traffic on your monorepo, check out the repository cache, especially if you have CI workloads distributed around the world.]]></summary>
+        <author>
+            <name>Matt Cooper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Start working on GitHub Issues faster]]></title>
+        <id>https://github.blog/?p=63473</id>
+        <link href="https://github.blog/2022-03-21-start-working-on-github-issues-faster/"/>
+        <updated>2022-03-21T21:20:42.000Z</updated>
+        <summary type="html"><![CDATA[You can now create a branch to work on an issue directly from the issue page so that it's easier to get started right away.]]></summary>
+        <author>
+            <name>Daniel Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validate all the things: improve your security with input validation!]]></title>
+        <id>https://github.blog/?p=63602</id>
+        <link href="https://github.blog/2022-03-21-validate-all-things-input-validation/"/>
+        <updated>2022-03-21T17:41:59.000Z</updated>
+        <summary type="html"><![CDATA[If there's one habit that can make software more secure, it's probably input validation. Here's how to apply OWASP Proactive Control C5 (Validate All Inputs) to your code.]]></summary>
+        <author>
+            <name>Jaroslav Lobacevski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Release Radar · February 2022 Edition]]></title>
         <id>https://github.blog/?p=63572</id>
@@ -33,6 +93,17 @@
         <summary type="html"><![CDATA[We've introduced several new features to help enterprise owners more easily manage their accounts, including two features now in public beta.]]></summary>
         <author>
             <name>Melody Mileski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Proposal For Type Syntax in JavaScript]]></title>
+        <id>https://devblogs.microsoft.com/typescript/?p=3302</id>
+        <link href="https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/"/>
+        <updated>2022-03-09T18:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Today we’re excited to announce our support and collaboration on a new Stage 0 proposal to bring optional and erasable type syntax to JavaScript.
+The post A Proposal For Type Syntax in JavaScript appeared first on TypeScript.]]></summary>
+        <author>
+            <name>Daniel Rosenwasser</name>
         </author>
     </entry>
     <entry>
@@ -67,53 +138,14 @@ Read the full article]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our response to the war in Ukraine]]></title>
-        <id>https://github.blog/?p=63524</id>
-        <link href="https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/"/>
-        <updated>2022-03-02T21:56:01.000Z</updated>
-        <summary type="html"><![CDATA[As the global response to the tragedies in Ukraine and other impacted regions continues to evolve, I wanted to share with our community an expansion of the message that I shared earlier this week with our Hubbers.]]></summary>
+        <title type="html"><![CDATA[Announcing TypeScript 4.6]]></title>
+        <id>https://devblogs.microsoft.com/typescript/?p=3286</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/"/>
+        <updated>2022-03-01T00:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Today we’re announcing the availability of TypeScript 4.6.
+The post Announcing TypeScript 4.6 appeared first on TypeScript.]]></summary>
         <author>
-            <name>Thomas Dohmke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new way to understand your GitHub-hosted runner capacity]]></title>
-        <id>https://github.blog/?p=63444</id>
-        <link href="https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/"/>
-        <updated>2022-02-23T19:54:16.000Z</updated>
-        <summary type="html"><![CDATA[Explore and understand your overall GitHub-hosted Actions runner capacity with the new runner view.]]></summary>
-        <author>
-            <name>Ben De St Paer-Gotch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codespaces for the largest repositories just got faster]]></title>
-        <id>https://github.blog/?p=63238</id>
-        <link href="https://github.blog/2022-02-23-codespaces-largest-repositories-faster/"/>
-        <updated>2022-02-23T18:10:01.000Z</updated>
-        <summary type="html"><![CDATA[The ability to prebuild codespaces is entering public beta. Enable fast environment creation times, regardless of the size and complexity of your repositories.]]></summary>
-        <author>
-            <name>Tanmayee Kamath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get started with ease using security workflows!]]></title>
-        <id>https://github.blog/?p=63410</id>
-        <link href="https://github.blog/2022-02-22-get-started-using-security-workflows/"/>
-        <updated>2022-02-22T17:18:57.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Actions workflows in the Security category will now appear among the workflow recommendations based on a repository's content.]]></summary>
-        <author>
-            <name>Pulkit Agarwal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Advisory Database now open to community contributions]]></title>
-        <id>https://github.blog/?p=63397</id>
-        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
-        <updated>2022-02-22T17:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Anyone can now provide additional information to further the community’s understanding and awareness of security advisories.]]></summary>
-        <author>
-            <name>Kate Catlin</name>
+            <name>Daniel Rosenwasser</name>
         </author>
     </entry>
 </feed>

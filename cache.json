@@ -6,12 +6,72 @@
       "siteUrl": "https://github.blog",
       "articles": [
         {
+          "id": "https://github.blog/?p=63774",
+          "author": "Keith Ballinger",
+          "description": "Over the past few weeks, we have experienced multiple incidents due to the health of our database. We wanted to share what we know about these incidents while our team continues to address them.",
+          "link": "https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/",
+          "publishedOn": "2022-03-23T20:39:01.000Z",
+          "wordCount": 902,
+          "title": "An update on recent service disruptions",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Engineering@2x.png"
+        },
+        {
+          "id": "https://github.blog/?p=63742",
+          "author": "Jennifer Schelkopf",
+          "description": "You can now enforce consistent usage of self-hosted runner groups across your organization and enterprise.",
+          "link": "https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/",
+          "publishedOn": "2022-03-23T16:30:24.000Z",
+          "wordCount": 588,
+          "title": "GitHub Actions: secure self-hosted runners by limiting them to specific workflows",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Enterprise-Product@2x-3.png"
+        },
+        {
+          "id": "https://github.blog/?p=63729",
+          "author": "Bruce Williams",
+          "description": "Today, we are rolling out a new beta version of GitHub’s home feed, making it easier to discover projects, developers and more across GitHub.",
+          "link": "https://github.blog/2022-03-22-improving-your-github-feed/",
+          "publishedOn": "2022-03-22T23:47:44.000Z",
+          "wordCount": 609,
+          "title": "Improving your GitHub feed",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/github-new-feeds-beta-social.png"
+        },
+        {
+          "id": "https://github.blog/?p=63715",
+          "author": "Matt Cooper",
+          "description": "If you're a GHES customer with heavy read traffic on your monorepo, check out the repository cache, especially if you have CI workloads distributed around the world.",
+          "link": "https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/",
+          "publishedOn": "2022-03-22T17:48:06.000Z",
+          "wordCount": 819,
+          "title": "Introducing the GHES repository cache",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/159021568-9d5667a2-f7ac-4fa0-9f9f-19b44a45f13f.png"
+        },
+        {
+          "id": "https://github.blog/?p=63473",
+          "author": "Daniel Adams",
+          "description": "You can now create a branch to work on an issue directly from the issue page so that it's easier to get started right away.",
+          "link": "https://github.blog/2022-03-21-start-working-on-github-issues-faster/",
+          "publishedOn": "2022-03-21T21:20:42.000Z",
+          "wordCount": 679,
+          "title": "Start working on GitHub Issues faster",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/create-branch-from-issue.png"
+        },
+        {
+          "id": "https://github.blog/?p=63602",
+          "author": "Jaroslav Lobacevski",
+          "description": "If there's one habit that can make software more secure, it's probably input validation. Here's how to apply OWASP Proactive Control C5 (Validate All Inputs) to your code.",
+          "link": "https://github.blog/2022-03-21-validate-all-things-input-validation/",
+          "publishedOn": "2022-03-21T17:41:59.000Z",
+          "wordCount": 1295,
+          "title": "Validate all the things: improve your security with input validation!",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Security-Community@2x.png"
+        },
+        {
           "id": "https://github.blog/?p=63572",
           "author": "Michelle Mannering",
           "description": "Our community has shipped lots of open source project updates in the last month. Here's a few of our staff picks.",
           "link": "https://github.blog/2022-03-17-release-radar-feb-2022/",
           "publishedOn": "2022-03-17T23:05:05.000Z",
-          "wordCount": 1484,
+          "wordCount": 1506,
           "title": "Release Radar · February 2022 Edition",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Release-Radar-February.jpg"
         },
@@ -21,7 +81,7 @@
           "description": "It is now possible to re-run only failed jobs or a single job in GitHub Actions workflows.",
           "link": "https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/",
           "publishedOn": "2022-03-16T14:37:06.000Z",
-          "wordCount": 738,
+          "wordCount": 741,
           "title": "Save time with partial re-runs in GitHub Actions",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/03/partial-re-runs-github-actions-social-card.png"
         },
@@ -31,7 +91,7 @@
           "description": "We've introduced several new features to help enterprise owners more easily manage their accounts, including two features now in public beta.",
           "link": "https://github.blog/2022-03-10-improved-management-github-enterprise-owners/",
           "publishedOn": "2022-03-10T18:36:50.000Z",
-          "wordCount": 567,
+          "wordCount": 581,
           "title": "Improved management for GitHub Enterprise owners",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Enterprise-Product@2x-1.png"
         },
@@ -41,59 +101,9 @@
           "description": "In February, we experienced one incident resulting in significant impact to multiple GitHub services.",
           "link": "https://github.blog/2022-03-02-github-availability-report-february-2022/",
           "publishedOn": "2022-03-02T23:24:53.000Z",
-          "wordCount": 515,
+          "wordCount": 521,
           "title": "GitHub Availability Report: February 2022",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Engineering-Enterprise@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=63524",
-          "author": "Thomas Dohmke",
-          "description": "As the global response to the tragedies in Ukraine and other impacted regions continues to evolve, I wanted to share with our community an expansion of the message that I shared earlier this week with our Hubbers.",
-          "link": "https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/",
-          "publishedOn": "2022-03-02T21:56:01.000Z",
-          "wordCount": 918,
-          "title": "Our response to the war in Ukraine",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/1200x630-GitHub-1.png"
-        },
-        {
-          "id": "https://github.blog/?p=63444",
-          "author": "Ben De St Paer-Gotch",
-          "description": "Explore and understand your overall GitHub-hosted Actions runner capacity with the new runner view.",
-          "link": "https://github.blog/2022-02-23-new-way-understand-github-hosted-runner-capacity/",
-          "publishedOn": "2022-02-23T19:54:16.000Z",
-          "wordCount": 380,
-          "title": "A new way to understand your GitHub-hosted runner capacity",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/github-hosted-runners-usage.png"
-        },
-        {
-          "id": "https://github.blog/?p=63238",
-          "author": "Tanmayee Kamath",
-          "description": "The ability to prebuild codespaces is entering public beta. Enable fast environment creation times, regardless of the size and complexity of your repositories.",
-          "link": "https://github.blog/2022-02-23-codespaces-largest-repositories-faster/",
-          "publishedOn": "2022-02-23T18:10:01.000Z",
-          "wordCount": 1033,
-          "title": "Codespaces for the largest repositories just got faster",
-          "imageUrl": "https://github.blog/wp-content/uploads/2021/08/1200x630-codespaces-social-3.png"
-        },
-        {
-          "id": "https://github.blog/?p=63410",
-          "author": "Pulkit Agarwal",
-          "description": "GitHub Actions workflows in the Security category will now appear among the workflow recommendations based on a repository's content.",
-          "link": "https://github.blog/2022-02-22-get-started-using-security-workflows/",
-          "publishedOn": "2022-02-22T17:18:57.000Z",
-          "wordCount": 592,
-          "title": "Get started with ease using security workflows!",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Product_green@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=63397",
-          "author": "Kate Catlin",
-          "description": "Anyone can now provide additional information to further the community’s understanding and awareness of security advisories.",
-          "link": "https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/",
-          "publishedOn": "2022-02-22T17:00:43.000Z",
-          "wordCount": 767,
-          "title": "GitHub Advisory Database now open to community contributions",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Security-Product-Open-Source@2x.png"
         }
       ]
     },
@@ -127,6 +137,33 @@
           "wordCount": 5479,
           "title": "Visual Studio Code February 2022",
           "imageUrl": "https://code.visualstudio.com/assets/updates/1_65/release-highlights.png"
+        }
+      ]
+    },
+    {
+      "title": "TypeScript",
+      "feedUrl": "https://devblogs.microsoft.com/typescript/feed/",
+      "siteUrl": "https://devblogs.microsoft.com/typescript",
+      "articles": [
+        {
+          "id": "https://devblogs.microsoft.com/typescript/?p=3302",
+          "author": "Daniel Rosenwasser",
+          "description": "Today we’re excited to announce our support and collaboration on a new Stage 0 proposal to bring optional and erasable type syntax to JavaScript.\nThe post A Proposal For Type Syntax in JavaScript appeared first on TypeScript.",
+          "link": "https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/",
+          "publishedOn": "2022-03-09T18:45:20.000Z",
+          "wordCount": 3325,
+          "title": "A Proposal For Type Syntax in JavaScript",
+          "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2022/03/tac-announcement-today-proposed.svg"
+        },
+        {
+          "id": "https://devblogs.microsoft.com/typescript/?p=3286",
+          "author": "Daniel Rosenwasser",
+          "description": "Today we’re announcing the availability of TypeScript 4.6.\nThe post Announcing TypeScript 4.6 appeared first on TypeScript.",
+          "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/",
+          "publishedOn": "2022-03-01T00:01:33.000Z",
+          "wordCount": 3306,
+          "title": "Announcing TypeScript 4.6",
+          "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2022/02/jsdoc-comment-suggestions-4-6.png"
         }
       ]
     }
