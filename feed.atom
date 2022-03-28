@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-25T01:28:17.823Z</id>
+    <id>urn:2022-03-28T00:52:40.239Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-25T01:28:17.823Z</updated>
+    <updated>2022-03-28T00:52:40.239Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Unlock all the GitHub secrets within .Tech Domains newest experience: Break The Code 2!]]></title>
+        <id>https://github.blog/?p=63825</id>
+        <link href="https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/"/>
+        <updated>2022-03-25T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Education is fired up for the return of .Tech Domains developer community competition: Break The Code 2. We've hacked in some new enigmas, cheat codes, and easter eggs for digital sleuths to uncover!]]></summary>
+        <author>
+            <name>Matthew Dyson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An update on recent service disruptions]]></title>
         <id>https://github.blog/?p=63774</id>
@@ -125,16 +135,6 @@ The post A Proposal For Type Syntax in JavaScript appeared first on TypeScript.]
 Read the full article]]></summary>
         <author>
             <name>Visual Studio Code - Code Editing. Redefined.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Availability Report: February 2022]]></title>
-        <id>https://github.blog/?p=63536</id>
-        <link href="https://github.blog/2022-03-02-github-availability-report-february-2022/"/>
-        <updated>2022-03-02T23:24:53.000Z</updated>
-        <summary type="html"><![CDATA[In February, we experienced one incident resulting in significant impact to multiple GitHub services.]]></summary>
-        <author>
-            <name>Jakub Oleksy</name>
         </author>
     </entry>
     <entry>

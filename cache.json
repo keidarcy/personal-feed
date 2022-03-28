@@ -6,6 +6,16 @@
       "siteUrl": "https://github.blog",
       "articles": [
         {
+          "id": "https://github.blog/?p=63825",
+          "author": "Matthew Dyson",
+          "description": "GitHub Education is fired up for the return of .Tech Domains developer community competition: Break The Code 2. We've hacked in some new enigmas, cheat codes, and easter eggs for digital sleuths to uncover!",
+          "link": "https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/",
+          "publishedOn": "2022-03-25T18:00:04.000Z",
+          "wordCount": 544,
+          "title": "Unlock all the GitHub secrets within .Tech Domains newest experience: Break The Code 2!",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/break-the-code-2.png"
+        },
+        {
           "id": "https://github.blog/?p=63774",
           "author": "Keith Ballinger",
           "description": "Over the past few weeks, we have experienced multiple incidents due to the health of our database. We wanted to share what we know about these incidents while our team continues to address them.",
@@ -94,16 +104,6 @@
           "wordCount": 581,
           "title": "Improved management for GitHub Enterprise owners",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Enterprise-Product@2x-1.png"
-        },
-        {
-          "id": "https://github.blog/?p=63536",
-          "author": "Jakub Oleksy",
-          "description": "In February, we experienced one incident resulting in significant impact to multiple GitHub services.",
-          "link": "https://github.blog/2022-03-02-github-availability-report-february-2022/",
-          "publishedOn": "2022-03-02T23:24:53.000Z",
-          "wordCount": 521,
-          "title": "GitHub Availability Report: February 2022",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Engineering-Enterprise@2x.png"
         }
       ]
     },
@@ -151,7 +151,7 @@
           "description": "Today we’re excited to announce our support and collaboration on a new Stage 0 proposal to bring optional and erasable type syntax to JavaScript.\nThe post A Proposal For Type Syntax in JavaScript appeared first on TypeScript.",
           "link": "https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/",
           "publishedOn": "2022-03-09T18:45:20.000Z",
-          "wordCount": 3325,
+          "wordCount": 3331,
           "title": "A Proposal For Type Syntax in JavaScript",
           "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2022/03/tac-announcement-today-proposed.svg"
         },
@@ -161,7 +161,7 @@
           "description": "Today we’re announcing the availability of TypeScript 4.6.\nThe post Announcing TypeScript 4.6 appeared first on TypeScript.",
           "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/",
           "publishedOn": "2022-03-01T00:01:33.000Z",
-          "wordCount": 3306,
+          "wordCount": 3312,
           "title": "Announcing TypeScript 4.6",
           "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2022/02/jsdoc-comment-suggestions-4-6.png"
         }
