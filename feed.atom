@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-28T00:52:40.239Z</id>
+    <id>urn:2022-04-04T00:51:35.465Z</id>
     <title>osmos::feed</title>
-    <updated>2022-03-28T00:52:40.239Z</updated>
+    <updated>2022-04-04T00:51:35.465Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How GitHub does take home technical interviews]]></title>
+        <id>https://github.blog/?p=63463</id>
+        <link href="https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/"/>
+        <updated>2022-03-31T17:00:30.000Z</updated>
+        <summary type="html"><![CDATA[We believe our technical interviews should be as similar as possible to the way we work at GitHub.]]></summary>
+        <author>
+            <name>Andy McKay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio Code March 2022]]></title>
+        <id>https://code.visualstudio.com/updates/v1_66</id>
+        <link href="https://code.visualstudio.com/updates/v1_66"/>
+        <updated>2022-03-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio Code March 2022
+Read the full article]]></summary>
+        <author>
+            <name>Visual Studio Code - Code Editing. Redefined.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot now available for Visual Studio 2022]]></title>
+        <id>https://github.blog/?p=63452</id>
+        <link href="https://github.blog/2022-03-29-github-copilot-now-available-for-visual-studio-2022/"/>
+        <updated>2022-03-29T16:30:04.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Copilot is now available from Visual Studio 2022 for everyone in the technical preview.]]></summary>
+        <author>
+            <name>Martin Woodward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Career tips for beginner developers]]></title>
+        <id>https://github.blog/?p=63852</id>
+        <link href="https://github.blog/2022-03-29-career-tips-for-beginner-developers/"/>
+        <updated>2022-03-29T10:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Advice on fundamentals, picking languages to learn, social media presence, interviewing, and more]]></summary>
+        <author>
+            <name>Kelsey Bernius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to secure your end-to-end supply chain on GitHub]]></title>
+        <id>https://github.blog/?p=63785</id>
+        <link href="https://github.blog/2022-03-28-how-to-secure-your-end-to-end-supply-chain-on-github/"/>
+        <updated>2022-03-28T17:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Securing your projects is no easy task, but end-to-end supply chain security is more top of mind than ever. We’ve seen bad actors expand their focus to taking over user accounts, commonly used dependencies, and also build systems. Defending against these attacks is hard, because there’s no one thing you can do to protect your […]]]></summary>
+        <author>
+            <name>Zachary Steindler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlock all the GitHub secrets within .Tech Domains newest experience: Break The Code 2!]]></title>
         <id>https://github.blog/?p=63825</id>
@@ -66,46 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Validate all the things: improve your security with input validation!]]></title>
-        <id>https://github.blog/?p=63602</id>
-        <link href="https://github.blog/2022-03-21-validate-all-things-input-validation/"/>
-        <updated>2022-03-21T17:41:59.000Z</updated>
-        <summary type="html"><![CDATA[If there's one habit that can make software more secure, it's probably input validation. Here's how to apply OWASP Proactive Control C5 (Validate All Inputs) to your code.]]></summary>
-        <author>
-            <name>Jaroslav Lobacevski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release Radar · February 2022 Edition]]></title>
-        <id>https://github.blog/?p=63572</id>
-        <link href="https://github.blog/2022-03-17-release-radar-feb-2022/"/>
-        <updated>2022-03-17T23:05:05.000Z</updated>
-        <summary type="html"><![CDATA[Our community has shipped lots of open source project updates in the last month. Here's a few of our staff picks.]]></summary>
-        <author>
-            <name>Michelle Mannering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save time with partial re-runs in GitHub Actions]]></title>
-        <id>https://github.blog/?p=63632</id>
-        <link href="https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/"/>
-        <updated>2022-03-16T14:37:06.000Z</updated>
-        <summary type="html"><![CDATA[It is now possible to re-run only failed jobs or a single job in GitHub Actions workflows.]]></summary>
-        <author>
-            <name>Cameron Booth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improved management for GitHub Enterprise owners]]></title>
-        <id>https://github.blog/?p=63558</id>
-        <link href="https://github.blog/2022-03-10-improved-management-github-enterprise-owners/"/>
-        <updated>2022-03-10T18:36:50.000Z</updated>
-        <summary type="html"><![CDATA[We've introduced several new features to help enterprise owners more easily manage their accounts, including two features now in public beta.]]></summary>
-        <author>
-            <name>Melody Mileski</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Proposal For Type Syntax in JavaScript]]></title>
         <id>https://devblogs.microsoft.com/typescript/?p=3302</id>
         <link href="https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/"/>
@@ -124,28 +135,6 @@ The post A Proposal For Type Syntax in JavaScript appeared first on TypeScript.]
         <summary type="html"><![CDATA[Read the full article]]></summary>
         <author>
             <name>Visual Studio Code - Code Editing. Redefined.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code February 2022]]></title>
-        <id>https://code.visualstudio.com/updates/v1_65</id>
-        <link href="https://code.visualstudio.com/updates/v1_65"/>
-        <updated>2022-03-03T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio Code February 2022
-Read the full article]]></summary>
-        <author>
-            <name>Visual Studio Code - Code Editing. Redefined.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing TypeScript 4.6]]></title>
-        <id>https://devblogs.microsoft.com/typescript/?p=3286</id>
-        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/"/>
-        <updated>2022-03-01T00:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Today we’re announcing the availability of TypeScript 4.6.
-The post Announcing TypeScript 4.6 appeared first on TypeScript.]]></summary>
-        <author>
-            <name>Daniel Rosenwasser</name>
         </author>
     </entry>
 </feed>
