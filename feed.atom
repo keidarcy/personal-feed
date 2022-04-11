@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-04T00:51:35.465Z</id>
+    <id>urn:2022-04-11T00:52:49.129Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-04T00:51:35.465Z</updated>
+    <updated>2022-04-11T00:52:49.129Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing TypeScript 4.7 Beta]]></title>
+        <id>https://devblogs.microsoft.com/typescript/?p=3404</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-beta/"/>
+        <updated>2022-04-08T19:42:27.000Z</updated>
+        <summary type="html"><![CDATA[Today we are excited to announce the beta release of TypeScript 4.7!
+You can also get editor support by
+Downloading for Visual Studio 2022/2019
+The post Announcing TypeScript 4.7 Beta appeared first on TypeScript.]]></summary>
+        <author>
+            <name>Daniel Rosenwasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release Radar · March 2022 Edition]]></title>
+        <id>https://github.blog/?p=64018</id>
+        <link href="https://github.blog/2022-04-08-release-radar-mar-2022/"/>
+        <updated>2022-04-08T17:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Each month, we highlight open source projects that have shipped major updates. These include everything from world-changing technology to developer tooling, and weekend projects. Here are our top staff picks on projects that shipped major version releases in March. Babylon.js 5.0 We featured Babylon.js in the November 2020 Release Radar. Since then, Babylon.js has come […]]]></summary>
+        <author>
+            <name>Michelle Mannering</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Credential Manager: authentication for everyone]]></title>
+        <id>https://github.blog/?p=63975</id>
+        <link href="https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/"/>
+        <updated>2022-04-07T18:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring secure access to your source code is more important than ever. Git Credential Manager helps make that easy.]]></summary>
+        <author>
+            <name>Matthew John Cheetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules]]></title>
+        <id>https://github.blog/?p=64043</id>
+        <link href="https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/"/>
+        <updated>2022-04-07T13:18:08.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build packages with SLSA 3 provenance using GitHub Actions.]]></summary>
+        <author>
+            <name>Jose Palafox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Availability Report: March 2022]]></title>
+        <id>https://github.blog/?p=64028</id>
+        <link href="https://github.blog/2022-04-06-github-availability-report-march-2022/"/>
+        <updated>2022-04-06T18:45:52.000Z</updated>
+        <summary type="html"><![CDATA[In March, we experienced several incidents resulting in significant impact to multiple GitHub services.]]></summary>
+        <author>
+            <name>Jakub Oleksy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prevent the introduction of known vulnerabilities into your code]]></title>
+        <id>https://github.blog/?p=63758</id>
+        <link href="https://github.blog/2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code/"/>
+        <updated>2022-04-06T18:13:40.000Z</updated>
+        <summary type="html"><![CDATA[The new dependency review action and API prevents the introduction of known supply chain vulnerabilities into your code.]]></summary>
+        <author>
+            <name>Courtney Claessens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Dependabot empowers you to keep your projects secure]]></title>
+        <id>https://github.blog/?p=63897</id>
+        <link href="https://github.blog/2022-04-06-how-dependabot-empowers-you-to-keep-your-projects-secure/"/>
+        <updated>2022-04-06T15:55:44.000Z</updated>
+        <summary type="html"><![CDATA[We want to take away the pain and effort of keeping your code secure, so check out how Dependabot empowers developers to keep to their projects secure.]]></summary>
+        <author>
+            <name>Brittany O'Shea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 ways we use GitHub Actions to build GitHub]]></title>
+        <id>https://github.blog/?p=63820</id>
+        <link href="https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/"/>
+        <updated>2022-04-05T15:50:13.000Z</updated>
+        <summary type="html"><![CDATA[From automating builds and releases to taking care of large-scale regression testing, here are a few ways we use GitHub Actions to build GitHub.]]></summary>
+        <author>
+            <name>Brian Douglas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proactively prevent secret leaks with GitHub Advanced Security secret scanning]]></title>
+        <id>https://github.blog/?p=63934</id>
+        <link href="https://github.blog/2022-04-04-push-protection-github-advanced-security/"/>
+        <updated>2022-04-04T17:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Organizations with GitHub Advanced Security can now proactively protect against secret leaks with secret scanning’s new push protection feature.]]></summary>
+        <author>
+            <name>Mariam Sulakian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Containers to move from local to Remote Development]]></title>
+        <id>https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers</id>
+        <link href="https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers"/>
+        <updated>2022-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full article]]></summary>
+        <author>
+            <name>Visual Studio Code - Code Editing. Redefined.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How GitHub does take home technical interviews]]></title>
         <id>https://github.blog/?p=63463</id>
@@ -34,107 +137,6 @@ Read the full article]]></summary>
         <summary type="html"><![CDATA[GitHub Copilot is now available from Visual Studio 2022 for everyone in the technical preview.]]></summary>
         <author>
             <name>Martin Woodward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Career tips for beginner developers]]></title>
-        <id>https://github.blog/?p=63852</id>
-        <link href="https://github.blog/2022-03-29-career-tips-for-beginner-developers/"/>
-        <updated>2022-03-29T10:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Advice on fundamentals, picking languages to learn, social media presence, interviewing, and more]]></summary>
-        <author>
-            <name>Kelsey Bernius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to secure your end-to-end supply chain on GitHub]]></title>
-        <id>https://github.blog/?p=63785</id>
-        <link href="https://github.blog/2022-03-28-how-to-secure-your-end-to-end-supply-chain-on-github/"/>
-        <updated>2022-03-28T17:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Securing your projects is no easy task, but end-to-end supply chain security is more top of mind than ever. We’ve seen bad actors expand their focus to taking over user accounts, commonly used dependencies, and also build systems. Defending against these attacks is hard, because there’s no one thing you can do to protect your […]]]></summary>
-        <author>
-            <name>Zachary Steindler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock all the GitHub secrets within .Tech Domains newest experience: Break The Code 2!]]></title>
-        <id>https://github.blog/?p=63825</id>
-        <link href="https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/"/>
-        <updated>2022-03-25T18:00:04.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Education is fired up for the return of .Tech Domains developer community competition: Break The Code 2. We've hacked in some new enigmas, cheat codes, and easter eggs for digital sleuths to uncover!]]></summary>
-        <author>
-            <name>Matthew Dyson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An update on recent service disruptions]]></title>
-        <id>https://github.blog/?p=63774</id>
-        <link href="https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/"/>
-        <updated>2022-03-23T20:39:01.000Z</updated>
-        <summary type="html"><![CDATA[Over the past few weeks, we have experienced multiple incidents due to the health of our database. We wanted to share what we know about these incidents while our team continues to address them.]]></summary>
-        <author>
-            <name>Keith Ballinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Actions: secure self-hosted runners by limiting them to specific workflows]]></title>
-        <id>https://github.blog/?p=63742</id>
-        <link href="https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/"/>
-        <updated>2022-03-23T16:30:24.000Z</updated>
-        <summary type="html"><![CDATA[You can now enforce consistent usage of self-hosted runner groups across your organization and enterprise.]]></summary>
-        <author>
-            <name>Jennifer Schelkopf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving your GitHub feed]]></title>
-        <id>https://github.blog/?p=63729</id>
-        <link href="https://github.blog/2022-03-22-improving-your-github-feed/"/>
-        <updated>2022-03-22T23:47:44.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are rolling out a new beta version of GitHub’s home feed, making it easier to discover projects, developers and more across GitHub.]]></summary>
-        <author>
-            <name>Bruce Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing the GHES repository cache]]></title>
-        <id>https://github.blog/?p=63715</id>
-        <link href="https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/"/>
-        <updated>2022-03-22T17:48:06.000Z</updated>
-        <summary type="html"><![CDATA[If you're a GHES customer with heavy read traffic on your monorepo, check out the repository cache, especially if you have CI workloads distributed around the world.]]></summary>
-        <author>
-            <name>Matt Cooper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start working on GitHub Issues faster]]></title>
-        <id>https://github.blog/?p=63473</id>
-        <link href="https://github.blog/2022-03-21-start-working-on-github-issues-faster/"/>
-        <updated>2022-03-21T21:20:42.000Z</updated>
-        <summary type="html"><![CDATA[You can now create a branch to work on an issue directly from the issue page so that it's easier to get started right away.]]></summary>
-        <author>
-            <name>Daniel Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Proposal For Type Syntax in JavaScript]]></title>
-        <id>https://devblogs.microsoft.com/typescript/?p=3302</id>
-        <link href="https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/"/>
-        <updated>2022-03-09T18:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Today we’re excited to announce our support and collaboration on a new Stage 0 proposal to bring optional and erasable type syntax to JavaScript.
-The post A Proposal For Type Syntax in JavaScript appeared first on TypeScript.]]></summary>
-        <author>
-            <name>Daniel Rosenwasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The problem with tutorials]]></title>
-        <id>https://code.visualstudio.com/blogs/2022/03/08/the-tutorial-problem</id>
-        <link href="https://code.visualstudio.com/blogs/2022/03/08/the-tutorial-problem"/>
-        <updated>2022-03-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Read the full article]]></summary>
-        <author>
-            <name>Visual Studio Code - Code Editing. Redefined.</name>
         </author>
     </entry>
 </feed>

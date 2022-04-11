@@ -6,12 +6,92 @@
       "siteUrl": "https://github.blog",
       "articles": [
         {
+          "id": "https://github.blog/?p=64018",
+          "author": "Michelle Mannering",
+          "description": "Each month, we highlight open source projects that have shipped major updates. These include everything from world-changing technology to developer tooling, and weekend projects. Here are our top staff picks on projects that shipped major version releases in March. Babylon.js 5.0 We featured Babylon.js in the November 2020 Release Radar. Since then, Babylon.js has come […]",
+          "link": "https://github.blog/2022-04-08-release-radar-mar-2022/",
+          "publishedOn": "2022-04-08T17:00:33.000Z",
+          "wordCount": 1265,
+          "title": "Release Radar · March 2022 Edition",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/March-2022-Release-Radar.jpg?fit=1200%2C630"
+        },
+        {
+          "id": "https://github.blog/?p=63975",
+          "author": "Matthew John Cheetham",
+          "description": "Ensuring secure access to your source code is more important than ever. Git Credential Manager helps make that easy.",
+          "link": "https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/",
+          "publishedOn": "2022-04-07T18:00:41.000Z",
+          "wordCount": 2241,
+          "title": "Git Credential Manager: authentication for everyone",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/gcm-social.png"
+        },
+        {
+          "id": "https://github.blog/?p=64043",
+          "author": "Jose Palafox",
+          "description": "Learn how to build packages with SLSA 3 provenance using GitHub Actions.",
+          "link": "https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/",
+          "publishedOn": "2022-04-07T13:18:08.000Z",
+          "wordCount": 1210,
+          "title": "Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Community@2x.png"
+        },
+        {
+          "id": "https://github.blog/?p=64028",
+          "author": "Jakub Oleksy",
+          "description": "In March, we experienced several incidents resulting in significant impact to multiple GitHub services.",
+          "link": "https://github.blog/2022-04-06-github-availability-report-march-2022/",
+          "publishedOn": "2022-04-06T18:45:52.000Z",
+          "wordCount": 1609,
+          "title": "GitHub Availability Report: March 2022",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Enterprise@2x-1.png?fit=2400%2C1260"
+        },
+        {
+          "id": "https://github.blog/?p=63758",
+          "author": "Courtney Claessens",
+          "description": "The new dependency review action and API prevents the introduction of known supply chain vulnerabilities into your code.",
+          "link": "https://github.blog/2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code/",
+          "publishedOn": "2022-04-06T18:13:40.000Z",
+          "wordCount": 620,
+          "title": "Prevent the introduction of known vulnerabilities into your code",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Engineering-Product@2x-1.png"
+        },
+        {
+          "id": "https://github.blog/?p=63897",
+          "author": "Brittany O'Shea",
+          "description": "We want to take away the pain and effort of keeping your code secure, so check out how Dependabot empowers developers to keep to their projects secure.",
+          "link": "https://github.blog/2022-04-06-how-dependabot-empowers-you-to-keep-your-projects-secure/",
+          "publishedOn": "2022-04-06T15:55:44.000Z",
+          "wordCount": 1162,
+          "title": "How Dependabot empowers you to keep your projects secure",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Security-Product@2x-1.png"
+        },
+        {
+          "id": "https://github.blog/?p=63820",
+          "author": "Brian Douglas",
+          "description": "From automating builds and releases to taking care of large-scale regression testing, here are a few ways we use GitHub Actions to build GitHub.",
+          "link": "https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/",
+          "publishedOn": "2022-04-05T15:50:13.000Z",
+          "wordCount": 2103,
+          "title": "4 ways we use GitHub Actions to build GitHub",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Company@2x.png?fit=2400%2C1260"
+        },
+        {
+          "id": "https://github.blog/?p=63934",
+          "author": "Mariam Sulakian",
+          "description": "Organizations with GitHub Advanced Security can now proactively protect against secret leaks with secret scanning’s new push protection feature.",
+          "link": "https://github.blog/2022-04-04-push-protection-github-advanced-security/",
+          "publishedOn": "2022-04-04T17:57:12.000Z",
+          "wordCount": 697,
+          "title": "Proactively prevent secret leaks with GitHub Advanced Security secret scanning",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Enterprise@2x.png?fit=2400%2C1260"
+        },
+        {
           "id": "https://github.blog/?p=63463",
           "author": "Andy McKay",
           "description": "We believe our technical interviews should be as similar as possible to the way we work at GitHub.",
           "link": "https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/",
           "publishedOn": "2022-03-31T17:00:30.000Z",
-          "wordCount": 1131,
+          "wordCount": 1117,
           "title": "How GitHub does take home technical interviews",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Engineering-Company@2x.png?fit=2400%2C1260"
         },
@@ -21,89 +101,9 @@
           "description": "GitHub Copilot is now available from Visual Studio 2022 for everyone in the technical preview.",
           "link": "https://github.blog/2022-03-29-github-copilot-now-available-for-visual-studio-2022/",
           "publishedOn": "2022-03-29T16:30:04.000Z",
-          "wordCount": 712,
+          "wordCount": 711,
           "title": "GitHub Copilot now available for Visual Studio 2022",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/02/154491850-80b62272-da07-4653-9875-bae9247bf314.png?fit=1200%2C630"
-        },
-        {
-          "id": "https://github.blog/?p=63852",
-          "author": "Kelsey Bernius",
-          "description": "Advice on fundamentals, picking languages to learn, social media presence, interviewing, and more",
-          "link": "https://github.blog/2022-03-29-career-tips-for-beginner-developers/",
-          "publishedOn": "2022-03-29T10:00:17.000Z",
-          "wordCount": 1958,
-          "title": "Career tips for beginner developers",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Community-Company_teal-orange@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=63785",
-          "author": "Zachary Steindler",
-          "description": "Securing your projects is no easy task, but end-to-end supply chain security is more top of mind than ever. We’ve seen bad actors expand their focus to taking over user accounts, commonly used dependencies, and also build systems. Defending against these attacks is hard, because there’s no one thing you can do to protect your […]",
-          "link": "https://github.blog/2022-03-28-how-to-secure-your-end-to-end-supply-chain-on-github/",
-          "publishedOn": "2022-03-28T17:00:12.000Z",
-          "wordCount": 705,
-          "title": "How to secure your end-to-end supply chain on GitHub",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Security-Product@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=63825",
-          "author": "Matthew Dyson",
-          "description": "GitHub Education is fired up for the return of .Tech Domains developer community competition: Break The Code 2. We've hacked in some new enigmas, cheat codes, and easter eggs for digital sleuths to uncover!",
-          "link": "https://github.blog/2022-03-25-unlock-github-secrets-next-techs-break-the-code-2/",
-          "publishedOn": "2022-03-25T18:00:04.000Z",
-          "wordCount": 529,
-          "title": "Unlock all the GitHub secrets within .Tech Domains newest experience: Break The Code 2!",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/break-the-code-2.png"
-        },
-        {
-          "id": "https://github.blog/?p=63774",
-          "author": "Keith Ballinger",
-          "description": "Over the past few weeks, we have experienced multiple incidents due to the health of our database. We wanted to share what we know about these incidents while our team continues to address them.",
-          "link": "https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/",
-          "publishedOn": "2022-03-23T20:39:01.000Z",
-          "wordCount": 893,
-          "title": "An update on recent service disruptions",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Engineering@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=63742",
-          "author": "Jennifer Schelkopf",
-          "description": "You can now enforce consistent usage of self-hosted runner groups across your organization and enterprise.",
-          "link": "https://github.blog/2022-03-23-github-actions-secure-self-hosted-runners-specific-workflows/",
-          "publishedOn": "2022-03-23T16:30:24.000Z",
-          "wordCount": 584,
-          "title": "GitHub Actions: secure self-hosted runners by limiting them to specific workflows",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Enterprise-Product@2x-3.png"
-        },
-        {
-          "id": "https://github.blog/?p=63729",
-          "author": "Bruce Williams",
-          "description": "Today, we are rolling out a new beta version of GitHub’s home feed, making it easier to discover projects, developers and more across GitHub.",
-          "link": "https://github.blog/2022-03-22-improving-your-github-feed/",
-          "publishedOn": "2022-03-22T23:47:44.000Z",
-          "wordCount": 597,
-          "title": "Improving your GitHub feed",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/github-new-feeds-beta-social.png"
-        },
-        {
-          "id": "https://github.blog/?p=63715",
-          "author": "Matt Cooper",
-          "description": "If you're a GHES customer with heavy read traffic on your monorepo, check out the repository cache, especially if you have CI workloads distributed around the world.",
-          "link": "https://github.blog/2022-03-22-introducing-the-ghes-repository-cache/",
-          "publishedOn": "2022-03-22T17:48:06.000Z",
-          "wordCount": 821,
-          "title": "Introducing the GHES repository cache",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/159021568-9d5667a2-f7ac-4fa0-9f9f-19b44a45f13f.png"
-        },
-        {
-          "id": "https://github.blog/?p=63473",
-          "author": "Daniel Adams",
-          "description": "You can now create a branch to work on an issue directly from the issue page so that it's easier to get started right away.",
-          "link": "https://github.blog/2022-03-21-start-working-on-github-issues-faster/",
-          "publishedOn": "2022-03-21T21:20:42.000Z",
-          "wordCount": 681,
-          "title": "Start working on GitHub Issues faster",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/create-branch-from-issue.png"
         }
       ]
     },
@@ -119,24 +119,24 @@
       "siteUrl": "https://code.visualstudio.com/",
       "articles": [
         {
+          "id": "https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers",
+          "author": null,
+          "description": "Read the full article",
+          "link": "https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers",
+          "publishedOn": "2022-04-04T00:00:00.000Z",
+          "wordCount": 2136,
+          "title": "Using Containers to move from local to Remote Development",
+          "imageUrl": "https://code.visualstudio.com/opengraphimg/opengraph-blog.png"
+        },
+        {
           "id": "https://code.visualstudio.com/updates/v1_66",
           "author": null,
           "description": "Visual Studio Code March 2022\nRead the full article",
           "link": "https://code.visualstudio.com/updates/v1_66",
           "publishedOn": "2022-03-30T17:00:00.000Z",
-          "wordCount": 5766,
+          "wordCount": 5772,
           "title": "Visual Studio Code March 2022",
           "imageUrl": "https://code.visualstudio.com/assets/updates/1_66/release-highlights.png"
-        },
-        {
-          "id": "https://code.visualstudio.com/blogs/2022/03/08/the-tutorial-problem",
-          "author": null,
-          "description": "Read the full article",
-          "link": "https://code.visualstudio.com/blogs/2022/03/08/the-tutorial-problem",
-          "publishedOn": "2022-03-08T00:00:00.000Z",
-          "wordCount": 2016,
-          "title": "The problem with tutorials",
-          "imageUrl": "https://code.visualstudio.com/opengraphimg/opengraph-blog.png"
         }
       ]
     },
@@ -146,14 +146,14 @@
       "siteUrl": "https://devblogs.microsoft.com/typescript",
       "articles": [
         {
-          "id": "https://devblogs.microsoft.com/typescript/?p=3302",
+          "id": "https://devblogs.microsoft.com/typescript/?p=3404",
           "author": "Daniel Rosenwasser",
-          "description": "Today we’re excited to announce our support and collaboration on a new Stage 0 proposal to bring optional and erasable type syntax to JavaScript.\nThe post A Proposal For Type Syntax in JavaScript appeared first on TypeScript.",
-          "link": "https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/",
-          "publishedOn": "2022-03-09T18:45:20.000Z",
-          "wordCount": 3331,
-          "title": "A Proposal For Type Syntax in JavaScript",
-          "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2022/03/tac-announcement-today-proposed.svg"
+          "description": "Today we are excited to announce the beta release of TypeScript 4.7!\nYou can also get editor support by\nDownloading for Visual Studio 2022/2019\nThe post Announcing TypeScript 4.7 Beta appeared first on TypeScript.",
+          "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-beta/",
+          "publishedOn": "2022-04-08T19:42:27.000Z",
+          "wordCount": 5638,
+          "title": "Announcing TypeScript 4.7 Beta",
+          "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png"
         }
       ]
     }
