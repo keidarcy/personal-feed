@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-18T00:59:37.099Z</id>
+    <id>urn:2022-04-25T00:51:58.799Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-18T00:59:37.099Z</updated>
+    <updated>2022-04-25T00:51:58.799Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙]]></title>
+        <id>https://github.blog/?p=64307</id>
+        <link href="https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/"/>
+        <updated>2022-04-23T07:01:13.000Z</updated>
+        <summary type="html"><![CDATA[The ZX Spectrum, one of the best-selling microcomputers of all time, celebrates its 40 years anniversary today. Read more about how the community is still active - creating new content, archiving old content, and hacking on all sorts of hardware.]]></summary>
+        <author>
+            <name>Lee Reilly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removing the stigma of a CVE]]></title>
+        <id>https://github.blog/?p=64375</id>
+        <link href="https://github.blog/2022-04-22-removing-the-stigma-of-a-cve/"/>
+        <updated>2022-04-22T16:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Do you worry that a CVE will hurt the reputation of your project? In reality, CVEs are a tracking number, and nothing more. Here's how we think of them at GitHub.]]></summary>
+        <author>
+            <name>Madison Oliver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 simple things every developer can do to ship more secure code]]></title>
+        <id>https://github.blog/?p=64240</id>
+        <link href="https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/"/>
+        <updated>2022-04-22T14:59:28.000Z</updated>
+        <summary type="html"><![CDATA[From plug-and-play automations to protected branches, here are simple ways any developer can build more secure software on GitHub—all with a free account.]]></summary>
+        <author>
+            <name>Brian Douglas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your guide to GitHub InFocus: Improving the way software development teams work in 2022]]></title>
+        <id>https://github.blog/?p=64370</id>
+        <link href="https://github.blog/2022-04-21-guide-to-github-infocus-2022/"/>
+        <updated>2022-04-21T21:14:55.000Z</updated>
+        <summary type="html"><![CDATA[We’re kicking off InFocus, a global virtual event focused on accelerating, securing, and improving the way software development teams work.]]></summary>
+        <author>
+            <name>Jeimy Ruiz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Git push times through faster server side hooks]]></title>
+        <id>https://github.blog/?p=63926</id>
+        <link href="https://github.blog/2022-04-21-improving-git-push-times-through-faster-server-side-hooks/"/>
+        <updated>2022-04-21T16:30:04.000Z</updated>
+        <summary type="html"><![CDATA[The history of pre-receive hooks, how we discovered that the performance was problematic, and how we went about safely replacing them.]]></summary>
+        <author>
+            <name>Carlos Martín Nieto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organization profiles leading the way]]></title>
+        <id>https://github.blog/?p=64296</id>
+        <link href="https://github.blog/2022-04-20-organization-profiles-leading-the-way/"/>
+        <updated>2022-04-20T18:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Organization profiles can now display custom content visible only to members of the organization. A new Member view can be tailored to show an alternative README and pinned private repositories.]]></summary>
+        <author>
+            <name>Daniel Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codespaces for multi-repository and monorepo scenarios]]></title>
+        <id>https://github.blog/?p=64268</id>
+        <link href="https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/"/>
+        <updated>2022-04-20T16:00:57.000Z</updated>
+        <summary type="html"><![CDATA[We’re releasing exciting improvements that will streamline your Codespaces experience when working with multi-repository projects and monorepos.]]></summary>
+        <author>
+            <name>Gabe Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharing security expertise through CodeQL packs (Part I)]]></title>
+        <id>https://github.blog/?p=64193</id>
+        <link href="https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/"/>
+        <updated>2022-04-19T17:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Introducing CodeQL packs to help you codify and share your knowledge of vulnerabilities.]]></summary>
+        <author>
+            <name>Andrew Eisenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highlights from Git 2.36]]></title>
+        <id>https://github.blog/?p=64204</id>
+        <link href="https://github.blog/2022-04-18-highlights-from-git-2-36/"/>
+        <updated>2022-04-18T16:44:50.000Z</updated>
+        <summary type="html"><![CDATA[Another new release of Git is here! Take a look at some of our highlights on what's new in Git 2.36.]]></summary>
+        <author>
+            <name>Taylor Blau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators]]></title>
         <id>https://github.blog/?p=64202</id>
@@ -13,46 +103,6 @@
         <summary type="html"><![CDATA[On April 12, GitHub Security began an investigation that uncovered evidence that an attacker abused stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including npm. Read on to learn more about the impact to GitHub, npm, and our users.]]></summary>
         <author>
             <name>Mike Hanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dependabot alerts now surface if your code is calling a vulnerability]]></title>
-        <id>https://github.blog/?p=64103</id>
-        <link href="https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/"/>
-        <updated>2022-04-14T16:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Today, we're shipping a new feature for Dependabot alerts which helps you better understand how you're affected by a vulnerability.]]></summary>
-        <author>
-            <name>Erin Havens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git security vulnerability announced]]></title>
-        <id>https://github.blog/?p=64076</id>
-        <link href="https://github.blog/2022-04-12-git-security-vulnerability-announced/"/>
-        <updated>2022-04-12T17:51:41.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade your local installation of Git, especially if you are using Git for Windows, or you use Git on a multi-user machine.]]></summary>
-        <author>
-            <name>Taylor Blau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s new in GitHub Discussions: Organization Discussions, polls, and more]]></title>
-        <id>https://github.blog/?p=64119</id>
-        <link href="https://github.blog/2022-04-12-whats-new-in-github-discussions-organization-discussions-polls-and-more/"/>
-        <updated>2022-04-12T17:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Today, we’re excited to bring you a few new features that will help you communicate, collaborate, and connect seamlessly with teams and communities about the software you’re building with the help of GitHub Discussions.]]></summary>
-        <author>
-            <name>Evi Liu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance at GitHub: deferring stats with rack.after_reply]]></title>
-        <id>https://github.blog/?p=64109</id>
-        <link href="https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/"/>
-        <updated>2022-04-11T17:20:57.000Z</updated>
-        <summary type="html"><![CDATA[How we sped up GitHub.com by moving slow, non-critical code into rack.after_reply.]]></summary>
-        <author>
-            <name>blakewilliams</name>
         </author>
     </entry>
     <entry>
@@ -66,56 +116,6 @@ Downloading for Visual Studio 2022/2019
 The post Announcing TypeScript 4.7 Beta appeared first on TypeScript.]]></summary>
         <author>
             <name>Daniel Rosenwasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release Radar · March 2022 Edition]]></title>
-        <id>https://github.blog/?p=64018</id>
-        <link href="https://github.blog/2022-04-08-release-radar-mar-2022/"/>
-        <updated>2022-04-08T17:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Each month, we highlight open source projects that have shipped major updates. These include everything from world-changing technology to developer tooling, and weekend projects. Here are our top staff picks on projects that shipped major version releases in March. Babylon.js 5.0 We featured Babylon.js in the November 2020 Release Radar. Since then, Babylon.js has come […]]]></summary>
-        <author>
-            <name>Michelle Mannering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Credential Manager: authentication for everyone]]></title>
-        <id>https://github.blog/?p=63975</id>
-        <link href="https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/"/>
-        <updated>2022-04-07T18:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring secure access to your source code is more important than ever. Git Credential Manager helps make that easy.]]></summary>
-        <author>
-            <name>Matthew John Cheetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules]]></title>
-        <id>https://github.blog/?p=64043</id>
-        <link href="https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/"/>
-        <updated>2022-04-07T13:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build packages with SLSA 3 provenance using GitHub Actions.]]></summary>
-        <author>
-            <name>Jose Palafox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Availability Report: March 2022]]></title>
-        <id>https://github.blog/?p=64028</id>
-        <link href="https://github.blog/2022-04-06-github-availability-report-march-2022/"/>
-        <updated>2022-04-06T18:45:52.000Z</updated>
-        <summary type="html"><![CDATA[In March, we experienced several incidents resulting in significant impact to multiple GitHub services.]]></summary>
-        <author>
-            <name>Jakub Oleksy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prevent the introduction of known vulnerabilities into your code]]></title>
-        <id>https://github.blog/?p=63758</id>
-        <link href="https://github.blog/2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code/"/>
-        <updated>2022-04-06T18:13:40.000Z</updated>
-        <summary type="html"><![CDATA[The new dependency review action and API prevents the introduction of known supply chain vulnerabilities into your code.]]></summary>
-        <author>
-            <name>Courtney Claessens</name>
         </author>
     </entry>
     <entry>

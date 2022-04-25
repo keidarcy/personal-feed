@@ -6,104 +6,104 @@
       "siteUrl": "https://github.blog",
       "articles": [
         {
+          "id": "https://github.blog/?p=64307",
+          "author": "Lee Reilly",
+          "description": "The ZX Spectrum, one of the best-selling microcomputers of all time, celebrates its 40 years anniversary today. Read more about how the community is still active - creating new content, archiving old content, and hacking on all sorts of hardware.",
+          "link": "https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/",
+          "publishedOn": "2022-04-23T07:01:13.000Z",
+          "wordCount": 1595,
+          "title": "Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/social-card-40yr-spectrum-zx.png"
+        },
+        {
+          "id": "https://github.blog/?p=64375",
+          "author": "Madison Oliver",
+          "description": "Do you worry that a CVE will hurt the reputation of your project? In reality, CVEs are a tracking number, and nothing more. Here's how we think of them at GitHub.",
+          "link": "https://github.blog/2022-04-22-removing-the-stigma-of-a-cve/",
+          "publishedOn": "2022-04-22T16:30:31.000Z",
+          "wordCount": 1717,
+          "title": "Removing the stigma of a CVE",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Security@2x.png?fit=2400%2C1260"
+        },
+        {
+          "id": "https://github.blog/?p=64240",
+          "author": "Brian Douglas",
+          "description": "From plug-and-play automations to protected branches, here are simple ways any developer can build more secure software on GitHub—all with a free account.",
+          "link": "https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/",
+          "publishedOn": "2022-04-22T14:59:28.000Z",
+          "wordCount": 2042,
+          "title": "5 simple things every developer can do to ship more secure code",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Product@2x.png"
+        },
+        {
+          "id": "https://github.blog/?p=64370",
+          "author": "Jeimy Ruiz",
+          "description": "We’re kicking off InFocus, a global virtual event focused on accelerating, securing, and improving the way software development teams work.",
+          "link": "https://github.blog/2022-04-21-guide-to-github-infocus-2022/",
+          "publishedOn": "2022-04-21T21:14:55.000Z",
+          "wordCount": 865,
+          "title": "Your guide to GitHub InFocus: Improving the way software development teams work in 2022",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/InFocus-featured-image.png"
+        },
+        {
+          "id": "https://github.blog/?p=63926",
+          "author": "Carlos Martín Nieto",
+          "description": "The history of pre-receive hooks, how we discovered that the performance was problematic, and how we went about safely replacing them.",
+          "link": "https://github.blog/2022-04-21-improving-git-push-times-through-faster-server-side-hooks/",
+          "publishedOn": "2022-04-21T16:30:04.000Z",
+          "wordCount": 1337,
+          "title": "Improving Git push times through faster server side hooks",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Product@2x.png?fit=2400%2C1260"
+        },
+        {
+          "id": "https://github.blog/?p=64296",
+          "author": "Daniel Adams",
+          "description": "Organization profiles can now display custom content visible only to members of the organization. A new Member view can be tailored to show an alternative README and pinned private repositories.",
+          "link": "https://github.blog/2022-04-20-organization-profiles-leading-the-way/",
+          "publishedOn": "2022-04-20T18:38:24.000Z",
+          "wordCount": 657,
+          "title": "Organization profiles leading the way",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Product-Cloud-Enterprise.png?fit=1200%2C630"
+        },
+        {
+          "id": "https://github.blog/?p=64268",
+          "author": "Gabe Dominguez",
+          "description": "We’re releasing exciting improvements that will streamline your Codespaces experience when working with multi-repository projects and monorepos.",
+          "link": "https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/",
+          "publishedOn": "2022-04-20T16:00:57.000Z",
+          "wordCount": 940,
+          "title": "Codespaces for multi-repository and monorepo scenarios",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Product-Engineering-Scurity.png?fit=1200%2C630"
+        },
+        {
+          "id": "https://github.blog/?p=64193",
+          "author": "Andrew Eisenberg",
+          "description": "Introducing CodeQL packs to help you codify and share your knowledge of vulnerabilities.",
+          "link": "https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/",
+          "publishedOn": "2022-04-19T17:00:02.000Z",
+          "wordCount": 2254,
+          "title": "Sharing security expertise through CodeQL packs (Part I)",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Security.png?fit=1200%2C630"
+        },
+        {
+          "id": "https://github.blog/?p=64204",
+          "author": "Taylor Blau",
+          "description": "Another new release of Git is here! Take a look at some of our highlights on what's new in Git 2.36.",
+          "link": "https://github.blog/2022-04-18-highlights-from-git-2-36/",
+          "publishedOn": "2022-04-18T16:44:50.000Z",
+          "wordCount": 3491,
+          "title": "Highlights from Git 2.36",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/git-2.36.png"
+        },
+        {
           "id": "https://github.blog/?p=64202",
           "author": "Mike Hanley",
           "description": "On April 12, GitHub Security began an investigation that uncovered evidence that an attacker abused stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including npm. Read on to learn more about the impact to GitHub, npm, and our users.",
           "link": "https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/",
           "publishedOn": "2022-04-15T22:35:02.000Z",
-          "wordCount": 1107,
+          "wordCount": 1509,
           "title": "Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Security@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=64103",
-          "author": "Erin Havens",
-          "description": "Today, we're shipping a new feature for Dependabot alerts which helps you better understand how you're affected by a vulnerability.",
-          "link": "https://github.blog/2022-04-14-dependabot-alerts-now-surface-if-code-is-calling-vulnerability/",
-          "publishedOn": "2022-04-14T16:30:11.000Z",
-          "wordCount": 798,
-          "title": "Dependabot alerts now surface if your code is calling a vulnerability",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Dependebots-Blog-Post-Cover.jpg?fit=1515%2C795"
-        },
-        {
-          "id": "https://github.blog/?p=64076",
-          "author": "Taylor Blau",
-          "description": "Upgrade your local installation of Git, especially if you are using Git for Windows, or you use Git on a multi-user machine.",
-          "link": "https://github.blog/2022-04-12-git-security-vulnerability-announced/",
-          "publishedOn": "2022-04-12T17:51:41.000Z",
-          "wordCount": 745,
-          "title": "Git security vulnerability announced",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Community@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=64119",
-          "author": "Evi Liu",
-          "description": "Today, we’re excited to bring you a few new features that will help you communicate, collaborate, and connect seamlessly with teams and communities about the software you’re building with the help of GitHub Discussions.",
-          "link": "https://github.blog/2022-04-12-whats-new-in-github-discussions-organization-discussions-polls-and-more/",
-          "publishedOn": "2022-04-12T17:00:32.000Z",
-          "wordCount": 1302,
-          "title": "What’s new in GitHub Discussions: Organization Discussions, polls, and more",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/polls1600x9gif.gif"
-        },
-        {
-          "id": "https://github.blog/?p=64109",
-          "author": "blakewilliams",
-          "description": "How we sped up GitHub.com by moving slow, non-critical code into rack.after_reply.",
-          "link": "https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/",
-          "publishedOn": "2022-04-11T17:20:57.000Z",
-          "wordCount": 917,
-          "title": "Performance at GitHub: deferring stats with rack.after_reply",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Background-3-Template-1200-x-631@2x.png?fit=2400%2C1260"
-        },
-        {
-          "id": "https://github.blog/?p=64018",
-          "author": "Michelle Mannering",
-          "description": "Each month, we highlight open source projects that have shipped major updates. These include everything from world-changing technology to developer tooling, and weekend projects. Here are our top staff picks on projects that shipped major version releases in March. Babylon.js 5.0 We featured Babylon.js in the November 2020 Release Radar. Since then, Babylon.js has come […]",
-          "link": "https://github.blog/2022-04-08-release-radar-mar-2022/",
-          "publishedOn": "2022-04-08T17:00:33.000Z",
-          "wordCount": 1323,
-          "title": "Release Radar · March 2022 Edition",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/March-2022-Release-Radar.jpg"
-        },
-        {
-          "id": "https://github.blog/?p=63975",
-          "author": "Matthew John Cheetham",
-          "description": "Ensuring secure access to your source code is more important than ever. Git Credential Manager helps make that easy.",
-          "link": "https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/",
-          "publishedOn": "2022-04-07T18:00:41.000Z",
-          "wordCount": 2243,
-          "title": "Git Credential Manager: authentication for everyone",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/gcm-social.png"
-        },
-        {
-          "id": "https://github.blog/?p=64043",
-          "author": "Jose Palafox",
-          "description": "Learn how to build packages with SLSA 3 provenance using GitHub Actions.",
-          "link": "https://github.blog/2022-04-07-slsa-3-compliance-with-github-actions/",
-          "publishedOn": "2022-04-07T13:18:08.000Z",
-          "wordCount": 1239,
-          "title": "Achieving SLSA 3 Compliance with GitHub Actions and Sigstore for Go modules",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Community@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=64028",
-          "author": "Jakub Oleksy",
-          "description": "In March, we experienced several incidents resulting in significant impact to multiple GitHub services.",
-          "link": "https://github.blog/2022-04-06-github-availability-report-march-2022/",
-          "publishedOn": "2022-04-06T18:45:52.000Z",
-          "wordCount": 1602,
-          "title": "GitHub Availability Report: March 2022",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Enterprise@2x-1.png?fit=2400%2C1260"
-        },
-        {
-          "id": "https://github.blog/?p=63758",
-          "author": "Courtney Claessens",
-          "description": "The new dependency review action and API prevents the introduction of known supply chain vulnerabilities into your code.",
-          "link": "https://github.blog/2022-04-06-prevent-introduction-known-vulnerabilities-into-your-code/",
-          "publishedOn": "2022-04-06T18:13:40.000Z",
-          "wordCount": 663,
-          "title": "Prevent the introduction of known vulnerabilities into your code",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/03/Engineering-Product@2x-1.png"
         }
       ]
     },
