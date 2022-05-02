@@ -6,12 +6,52 @@
       "siteUrl": "https://github.blog",
       "articles": [
         {
+          "id": "https://github.blog/?p=64639",
+          "author": "Patrick Thomson",
+          "description": "Thanks to the efforts of the Elixir community, GitHub supports code navigation for Elixir repositories. Read how favorite language can add this support too!",
+          "link": "https://github.blog/2022-04-29-bringing-code-navigation-to-communities/",
+          "publishedOn": "2022-04-29T15:00:02.000Z",
+          "wordCount": 787,
+          "title": "Bringing code navigation to communities",
+          "imageUrl": "https://github.blog/wp-content/uploads/2021/11/GitHub-Engineering_blog-social-teal.png?fit=1200%2C630"
+        },
+        {
+          "id": "https://github.blog/?p=64550",
+          "author": "Justin Hutchings",
+          "description": "These days software is subject to an ever-changing threat landscape. Check out the many ways you can keep your projects secure on GitHub today.",
+          "link": "https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/",
+          "publishedOn": "2022-04-28T15:55:56.000Z",
+          "wordCount": 958,
+          "title": "Best practices to keep your projects secure on GitHub",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Product@2x-1.png"
+        },
+        {
+          "id": "https://github.blog/?p=64509",
+          "author": "Sergio Padrino",
+          "description": "GitHub Desktop 3.0 brings better integration with your GitHub Pull Requests. You can now receive real time notifications and review the status of your check runs for your pull request.",
+          "link": "https://github.blog/2022-04-26-github-desktop-3-0-brings-better-integration-for-your-pull-requests/",
+          "publishedOn": "2022-04-26T16:00:26.000Z",
+          "wordCount": 1087,
+          "title": "GitHub Desktop 3.0 brings better integration for your pull requests",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/github-desktop-hero.png"
+        },
+        {
+          "id": "https://github.blog/?p=64330",
+          "author": "Lessley Dennington",
+          "description": "This is the first post in a two-part series describing friendly forks and alternative strategies for managing them. Stay tuned for part two coming in May!",
+          "link": "https://github.blog/2022-04-25-the-friend-zone-friendly-forks-101/",
+          "publishedOn": "2022-04-25T17:29:10.000Z",
+          "wordCount": 1567,
+          "title": "Friendly forks 101",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/friendly-forks-.png"
+        },
+        {
           "id": "https://github.blog/?p=64307",
           "author": "Lee Reilly",
           "description": "The ZX Spectrum, one of the best-selling microcomputers of all time, celebrates its 40 years anniversary today. Read more about how the community is still active - creating new content, archiving old content, and hacking on all sorts of hardware.",
           "link": "https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/",
           "publishedOn": "2022-04-23T07:01:13.000Z",
-          "wordCount": 1595,
+          "wordCount": 1580,
           "title": "Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/04/social-card-40yr-spectrum-zx.png"
         },
@@ -21,7 +61,7 @@
           "description": "Do you worry that a CVE will hurt the reputation of your project? In reality, CVEs are a tracking number, and nothing more. Here's how we think of them at GitHub.",
           "link": "https://github.blog/2022-04-22-removing-the-stigma-of-a-cve/",
           "publishedOn": "2022-04-22T16:30:31.000Z",
-          "wordCount": 1717,
+          "wordCount": 1685,
           "title": "Removing the stigma of a CVE",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Security@2x.png?fit=2400%2C1260"
         },
@@ -31,7 +71,7 @@
           "description": "From plug-and-play automations to protected branches, here are simple ways any developer can build more secure software on GitHub—all with a free account.",
           "link": "https://github.blog/2022-04-22-5-simple-things-every-developer-can-do-to-ship-more-secure-code/",
           "publishedOn": "2022-04-22T14:59:28.000Z",
-          "wordCount": 2042,
+          "wordCount": 2059,
           "title": "5 simple things every developer can do to ship more secure code",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Product@2x.png"
         },
@@ -51,7 +91,7 @@
           "description": "The history of pre-receive hooks, how we discovered that the performance was problematic, and how we went about safely replacing them.",
           "link": "https://github.blog/2022-04-21-improving-git-push-times-through-faster-server-side-hooks/",
           "publishedOn": "2022-04-21T16:30:04.000Z",
-          "wordCount": 1337,
+          "wordCount": 1349,
           "title": "Improving Git push times through faster server side hooks",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Product@2x.png?fit=2400%2C1260"
         },
@@ -61,49 +101,9 @@
           "description": "Organization profiles can now display custom content visible only to members of the organization. A new Member view can be tailored to show an alternative README and pinned private repositories.",
           "link": "https://github.blog/2022-04-20-organization-profiles-leading-the-way/",
           "publishedOn": "2022-04-20T18:38:24.000Z",
-          "wordCount": 657,
+          "wordCount": 654,
           "title": "Organization profiles leading the way",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Product-Cloud-Enterprise.png?fit=1200%2C630"
-        },
-        {
-          "id": "https://github.blog/?p=64268",
-          "author": "Gabe Dominguez",
-          "description": "We’re releasing exciting improvements that will streamline your Codespaces experience when working with multi-repository projects and monorepos.",
-          "link": "https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/",
-          "publishedOn": "2022-04-20T16:00:57.000Z",
-          "wordCount": 940,
-          "title": "Codespaces for multi-repository and monorepo scenarios",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Product-Engineering-Scurity.png?fit=1200%2C630"
-        },
-        {
-          "id": "https://github.blog/?p=64193",
-          "author": "Andrew Eisenberg",
-          "description": "Introducing CodeQL packs to help you codify and share your knowledge of vulnerabilities.",
-          "link": "https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/",
-          "publishedOn": "2022-04-19T17:00:02.000Z",
-          "wordCount": 2254,
-          "title": "Sharing security expertise through CodeQL packs (Part I)",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Security.png?fit=1200%2C630"
-        },
-        {
-          "id": "https://github.blog/?p=64204",
-          "author": "Taylor Blau",
-          "description": "Another new release of Git is here! Take a look at some of our highlights on what's new in Git 2.36.",
-          "link": "https://github.blog/2022-04-18-highlights-from-git-2-36/",
-          "publishedOn": "2022-04-18T16:44:50.000Z",
-          "wordCount": 3491,
-          "title": "Highlights from Git 2.36",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/git-2.36.png"
-        },
-        {
-          "id": "https://github.blog/?p=64202",
-          "author": "Mike Hanley",
-          "description": "On April 12, GitHub Security began an investigation that uncovered evidence that an attacker abused stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including npm. Read on to learn more about the impact to GitHub, npm, and our users.",
-          "link": "https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/",
-          "publishedOn": "2022-04-15T22:35:02.000Z",
-          "wordCount": 1509,
-          "title": "Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Security@2x.png"
         }
       ]
     },
@@ -127,16 +127,6 @@
           "wordCount": 2136,
           "title": "Using Containers to move from local to Remote Development",
           "imageUrl": "https://code.visualstudio.com/opengraphimg/opengraph-blog.png"
-        },
-        {
-          "id": "https://code.visualstudio.com/updates/v1_66",
-          "author": null,
-          "description": "Visual Studio Code March 2022\nRead the full article",
-          "link": "https://code.visualstudio.com/updates/v1_66",
-          "publishedOn": "2022-03-30T17:00:00.000Z",
-          "wordCount": 5786,
-          "title": "Visual Studio Code March 2022",
-          "imageUrl": "https://code.visualstudio.com/assets/updates/1_66/release-highlights.png"
         }
       ]
     },

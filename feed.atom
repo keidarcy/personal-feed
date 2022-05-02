@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-25T00:51:58.799Z</id>
+    <id>urn:2022-05-02T00:57:49.285Z</id>
     <title>osmos::feed</title>
-    <updated>2022-04-25T00:51:58.799Z</updated>
+    <updated>2022-05-02T00:57:49.285Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bringing code navigation to communities]]></title>
+        <id>https://github.blog/?p=64639</id>
+        <link href="https://github.blog/2022-04-29-bringing-code-navigation-to-communities/"/>
+        <updated>2022-04-29T15:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to the efforts of the Elixir community, GitHub supports code navigation for Elixir repositories. Read how favorite language can add this support too!]]></summary>
+        <author>
+            <name>Patrick Thomson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best practices to keep your projects secure on GitHub]]></title>
+        <id>https://github.blog/?p=64550</id>
+        <link href="https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/"/>
+        <updated>2022-04-28T15:55:56.000Z</updated>
+        <summary type="html"><![CDATA[These days software is subject to an ever-changing threat landscape. Check out the many ways you can keep your projects secure on GitHub today.]]></summary>
+        <author>
+            <name>Justin Hutchings</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Desktop 3.0 brings better integration for your pull requests]]></title>
+        <id>https://github.blog/?p=64509</id>
+        <link href="https://github.blog/2022-04-26-github-desktop-3-0-brings-better-integration-for-your-pull-requests/"/>
+        <updated>2022-04-26T16:00:26.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Desktop 3.0 brings better integration with your GitHub Pull Requests. You can now receive real time notifications and review the status of your check runs for your pull request.]]></summary>
+        <author>
+            <name>Sergio Padrino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friendly forks 101]]></title>
+        <id>https://github.blog/?p=64330</id>
+        <link href="https://github.blog/2022-04-25-the-friend-zone-friendly-forks-101/"/>
+        <updated>2022-04-25T17:29:10.000Z</updated>
+        <summary type="html"><![CDATA[This is the first post in a two-part series describing friendly forks and alternative strategies for managing them. Stay tuned for part two coming in May!]]></summary>
+        <author>
+            <name>Lessley Dennington</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celebrating 40 years of ZX Spectrum ❤️ 💛 💚 💙]]></title>
         <id>https://github.blog/?p=64307</id>
@@ -66,46 +106,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Codespaces for multi-repository and monorepo scenarios]]></title>
-        <id>https://github.blog/?p=64268</id>
-        <link href="https://github.blog/2022-04-20-codespaces-multi-repository-monorepo-scenarios/"/>
-        <updated>2022-04-20T16:00:57.000Z</updated>
-        <summary type="html"><![CDATA[We’re releasing exciting improvements that will streamline your Codespaces experience when working with multi-repository projects and monorepos.]]></summary>
-        <author>
-            <name>Gabe Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing security expertise through CodeQL packs (Part I)]]></title>
-        <id>https://github.blog/?p=64193</id>
-        <link href="https://github.blog/2022-04-19-sharing-security-expertise-through-codeql-packs-part-i/"/>
-        <updated>2022-04-19T17:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Introducing CodeQL packs to help you codify and share your knowledge of vulnerabilities.]]></summary>
-        <author>
-            <name>Andrew Eisenberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highlights from Git 2.36]]></title>
-        <id>https://github.blog/?p=64204</id>
-        <link href="https://github.blog/2022-04-18-highlights-from-git-2-36/"/>
-        <updated>2022-04-18T16:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Another new release of Git is here! Take a look at some of our highlights on what's new in Git 2.36.]]></summary>
-        <author>
-            <name>Taylor Blau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security alert: Attack campaign involving stolen OAuth user tokens issued to two third-party integrators]]></title>
-        <id>https://github.blog/?p=64202</id>
-        <link href="https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/"/>
-        <updated>2022-04-15T22:35:02.000Z</updated>
-        <summary type="html"><![CDATA[On April 12, GitHub Security began an investigation that uncovered evidence that an attacker abused stolen OAuth user tokens issued to two third-party OAuth integrators, Heroku and Travis-CI, to download data from dozens of organizations, including npm. Read on to learn more about the impact to GitHub, npm, and our users.]]></summary>
-        <author>
-            <name>Mike Hanley</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Announcing TypeScript 4.7 Beta]]></title>
         <id>https://devblogs.microsoft.com/typescript/?p=3404</id>
         <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-beta/"/>
@@ -124,17 +124,6 @@ The post Announcing TypeScript 4.7 Beta appeared first on TypeScript.]]></summar
         <link href="https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers"/>
         <updated>2022-04-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Read the full article]]></summary>
-        <author>
-            <name>Visual Studio Code - Code Editing. Redefined.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code March 2022]]></title>
-        <id>https://code.visualstudio.com/updates/v1_66</id>
-        <link href="https://code.visualstudio.com/updates/v1_66"/>
-        <updated>2022-03-30T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio Code March 2022
-Read the full article]]></summary>
         <author>
             <name>Visual Studio Code - Code Editing. Redefined.</name>
         </author>
