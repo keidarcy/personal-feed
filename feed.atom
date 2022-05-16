@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-09T00:58:14.415Z</id>
+    <id>urn:2022-05-16T01:00:10.619Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-09T00:58:14.415Z</updated>
+    <updated>2022-05-16T01:00:10.619Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing TypeScript 4.7 RC]]></title>
+        <id>https://devblogs.microsoft.com/typescript/?p=3438</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-rc/"/>
+        <updated>2022-05-11T22:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Today we’re excited to announce our Release Candidate (RC) of TypeScript 4.7!
+The post Announcing TypeScript 4.7 RC appeared first on TypeScript.]]></summary>
+        <author>
+            <name>Daniel Rosenwasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graduation is here! Celebrate the Class of 2022, and join GitHub on June 11 🎓]]></title>
+        <id>https://github.blog/?p=64901</id>
+        <link href="https://github.blog/2022-05-11-graduation-is-here-celebrate-the-class-of-2022-and-join-github-on-june-11/"/>
+        <updated>2022-05-11T18:00:20.000Z</updated>
+        <summary type="html"><![CDATA[This year, thousands of students from around the world came together and redefined the world we live in, how we learn, and how we move forward. We are honored to be part of the experience and eager to celebrate this milestone. So on June 11 we celebrate the Class of 2022 and welcome them to […]]]></summary>
+        <author>
+            <name>Lara Croft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source Monthly – May 2022 Edition]]></title>
+        <id>https://github.blog/?p=64908</id>
+        <link href="https://github.blog/2022-05-11-open-source-monthly-may-2022-edition/"/>
+        <updated>2022-05-11T15:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Open Sauced, GitHub’s Explore page, Hacktoberfest, and First Timers Only help folks discover open source projects. This monthly series–Open Source Monthly—will add to these efforts by helping: First-time contributors find the right project to contribute to Corporations and individuals find a new project to sponsor Open source maintainers gain more consistent contributors and sponsors […]]]></summary>
+        <author>
+            <name>Rizel Scarlett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhanced 2FA experience for your npm account]]></title>
+        <id>https://github.blog/?p=64931</id>
+        <link href="https://github.blog/2022-05-10-enhanced-2fa-experience-for-your-npm-account/"/>
+        <updated>2022-05-10T16:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Late last year, in response to an unprecedented series of account takeovers resulting from the compromise of developer accounts without 2FA enabled, we committed to a variety of enhancements to the npm registry to make two-factor authentication (2FA) adoption easier for developers. Today, we are launching a public beta for a significantly improved 2FA experience […]]]></summary>
+        <author>
+            <name>Myles Borins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supercharging GitHub Actions with Job Summaries]]></title>
+        <id>https://github.blog/?p=64780</id>
+        <link href="https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/"/>
+        <updated>2022-05-09T16:00:53.000Z</updated>
+        <summary type="html"><![CDATA[You can now output and group custom Markdown content on the Actions run summary page.]]></summary>
+        <author>
+            <name>Konrad Pabjan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prepare for next semester with GitHub Global Campus and Codespaces]]></title>
+        <id>https://github.blog/?p=64752</id>
+        <link href="https://github.blog/2022-05-09-prepare-for-next-semester-with-github-global-campus-and-codespaces/"/>
+        <updated>2022-05-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teachers, it is now your turn to join GitHub Global Campus with our student community! Get access to exclusive benefits, programs, and the Power of Codespaces at no cost in GitHub Classroom!]]></summary>
+        <author>
+            <name>Eric Rosado</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Today’s most common security vulnerabilities explained]]></title>
         <id>https://github.blog/?p=64815</id>
@@ -51,7 +112,7 @@ Read the full article]]></summary>
         <id>https://github.blog/?p=64750</id>
         <link href="https://github.blog/2022-05-04-github-availability-report-april-2022/"/>
         <updated>2022-05-04T22:01:17.000Z</updated>
-        <summary type="html"><![CDATA[In April, we experienced two distinct incidents resulting in significant impact and degraded state of availability for Codespaces and GitHub Packages.]]></summary>
+        <summary type="html"><![CDATA[In April, we experienced three distinct incidents resulting in significant impact and degraded state of availability for Codespaces and GitHub Packages.]]></summary>
         <author>
             <name>Jakub Oleksy</name>
         </author>
@@ -64,56 +125,6 @@ Read the full article]]></summary>
         <summary type="html"><![CDATA[GitHub will require all users who contribute code on GitHub.com to enable one or more forms of two-factor authentication (2FA) by the end of 2023.]]></summary>
         <author>
             <name>Mike Hanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Being friendly: Strategies for friendly fork management]]></title>
-        <id>https://github.blog/?p=64670</id>
-        <link href="https://github.blog/2022-05-02-friend-zone-strategies-friendly-fork-management/"/>
-        <updated>2022-05-02T16:26:29.000Z</updated>
-        <summary type="html"><![CDATA[This is the second and final post in a series describing friendly forks and alternative strategies for managing them.]]></summary>
-        <author>
-            <name>Lessley Dennington</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing code navigation to communities]]></title>
-        <id>https://github.blog/?p=64639</id>
-        <link href="https://github.blog/2022-04-29-bringing-code-navigation-to-communities/"/>
-        <updated>2022-04-29T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to the efforts of the Elixir community, GitHub supports code navigation for Elixir repositories. Read how favorite language can add this support too!]]></summary>
-        <author>
-            <name>Patrick Thomson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best practices to keep your projects secure on GitHub]]></title>
-        <id>https://github.blog/?p=64550</id>
-        <link href="https://github.blog/2022-04-28-best-practices-to-keep-your-projects-secure-on-github/"/>
-        <updated>2022-04-28T15:55:56.000Z</updated>
-        <summary type="html"><![CDATA[These days software is subject to an ever-changing threat landscape. Check out the many ways you can keep your projects secure on GitHub today.]]></summary>
-        <author>
-            <name>Justin Hutchings</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Desktop 3.0 brings better integration for your pull requests]]></title>
-        <id>https://github.blog/?p=64509</id>
-        <link href="https://github.blog/2022-04-26-github-desktop-3-0-brings-better-integration-for-your-pull-requests/"/>
-        <updated>2022-04-26T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Desktop 3.0 brings better integration with your GitHub Pull Requests. You can now receive real time notifications and review the status of your check runs for your pull request.]]></summary>
-        <author>
-            <name>Sergio Padrino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Being friendly: Friendly forks 101]]></title>
-        <id>https://github.blog/?p=64330</id>
-        <link href="https://github.blog/2022-04-25-the-friend-zone-friendly-forks-101/"/>
-        <updated>2022-04-25T17:29:10.000Z</updated>
-        <summary type="html"><![CDATA[This is the first post in a two-part series describing friendly forks and alternative strategies for managing them. Stay tuned for part two coming in May!]]></summary>
-        <author>
-            <name>Lessley Dennington</name>
         </author>
     </entry>
 </feed>
