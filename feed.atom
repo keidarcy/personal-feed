@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-23T00:55:29.485Z</id>
+    <id>urn:2022-05-30T01:05:33.191Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-23T00:55:29.485Z</updated>
+    <updated>2022-05-30T01:05:33.191Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[npm security update: Attack campaign using stolen OAuth tokens]]></title>
+        <id>https://github.blog/?p=65217</id>
+        <link href="https://github.blog/2022-05-26-npm-security-update-oauth-tokens/"/>
+        <updated>2022-05-27T04:37:28.000Z</updated>
+        <summary type="html"><![CDATA[npm's impact analysis of the attack campaign using stolen OAuth tokens and additional findings.]]></summary>
+        <author>
+            <name>Greg Ose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we use Dependabot to secure GitHub]]></title>
+        <id>https://github.blog/?p=65226</id>
+        <link href="https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/"/>
+        <updated>2022-05-25T22:22:22.000Z</updated>
+        <summary type="html"><![CDATA[A two-part story about how GitHub’s Product Security Engineering team rolled out Dependabot internally to track vulnerable dependencies, and how GitHub tracks and prioritizes technical debt.]]></summary>
+        <author>
+            <name>Phil Turnbull</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing TypeScript 4.7]]></title>
+        <id>https://devblogs.microsoft.com/typescript/?p=3451</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/"/>
+        <updated>2022-05-24T19:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Today we’re excited to announce the availability of TypeScript 4.7!
+The post Announcing TypeScript 4.7 appeared first on TypeScript.]]></summary>
+        <author>
+            <name>Daniel Rosenwasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved REST API documentation]]></title>
+        <id>https://github.blog/?p=65096</id>
+        <link href="https://github.blog/2022-05-24-improved-rest-api-documentation/"/>
+        <updated>2022-05-24T16:00:53.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce some big improvements to our REST API documentation. We know developers rely on this documentation to integrate with GitHub, and we are committed to making it trustworthy, easy to find, and easy to use.]]></summary>
+        <author>
+            <name>Rachael Sewell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Sponsors launches in India]]></title>
+        <id>https://github.blog/?p=65180</id>
+        <link href="https://github.blog/2022-05-23-github-sponsors-launches-in-india/"/>
+        <updated>2022-05-24T03:30:37.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Sponsors is now available to all developers in India – no more waitlist, you can sign up right away!]]></summary>
+        <author>
+            <name>Jessica Lord</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eight years of the GitHub Security Bug Bounty program]]></title>
+        <id>https://github.blog/?p=65156</id>
+        <link href="https://github.blog/2022-05-23-eight-years-of-the-github-security-bug-bounty-program/"/>
+        <updated>2022-05-23T17:54:46.000Z</updated>
+        <summary type="html"><![CDATA[It was another record year for our Security Bug Bounty program. We're excited to highlight some achievements we’ve made together with the bounty community from 2021!]]></summary>
+        <author>
+            <name>Jill Moné-Corallo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Release Radar · April 2022 Edition]]></title>
         <id>https://github.blog/?p=65072</id>
@@ -66,36 +127,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to measure innersource across your organization]]></title>
-        <id>https://github.blog/?p=64997</id>
-        <link href="https://github.blog/2022-05-16-how-to-measure-innersource-across-your-organization/"/>
-        <updated>2022-05-16T22:29:48.000Z</updated>
-        <summary type="html"><![CDATA[The innersource contribution percentage is the rate of contributions from people outside the team that originally authored the software. Let’s dive into what it can look like for your organization.]]></summary>
-        <author>
-            <name>Zack Koppert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we’re using projects to build projects]]></title>
-        <id>https://github.blog/?p=64967</id>
-        <link href="https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/"/>
-        <updated>2022-05-16T16:02:19.000Z</updated>
-        <summary type="html"><![CDATA[At GitHub we use GitHub to build our own products, and the new projects experience is no different. Check out how our team uses projects to build powerful project planning for developers.]]></summary>
-        <author>
-            <name>Jed Verity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Achieves ISO/IEC 27001:2013 Certification!]]></title>
-        <id>https://github.blog/?p=64961</id>
-        <link href="https://github.blog/2022-05-16-github-achieves-iso-iec-270012013-certification/"/>
-        <updated>2022-05-16T16:00:51.000Z</updated>
-        <summary type="html"><![CDATA[GitHub’s Information Security Management System (ISMS) has been certified against ISO 27001:2013, an internationally recognized standard for security program best practices.]]></summary>
-        <author>
-            <name>Brandon Griffeth</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Announcing TypeScript 4.7 RC]]></title>
         <id>https://devblogs.microsoft.com/typescript/?p=3438</id>
         <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-rc/"/>
@@ -104,26 +135,6 @@
 The post Announcing TypeScript 4.7 RC appeared first on TypeScript.]]></summary>
         <author>
             <name>Daniel Rosenwasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graduation is here! Celebrate the Class of 2022, and join GitHub on June 11 🎓]]></title>
-        <id>https://github.blog/?p=64901</id>
-        <link href="https://github.blog/2022-05-11-graduation-is-here-celebrate-the-class-of-2022-and-join-github-on-june-11/"/>
-        <updated>2022-05-11T18:00:20.000Z</updated>
-        <summary type="html"><![CDATA[This year, thousands of students from around the world came together and redefined the world we live in, how we learn, and how we move forward. We are honored to be part of the experience and eager to celebrate this milestone. So on June 11 we celebrate the Class of 2022 and welcome them to […]]]></summary>
-        <author>
-            <name>Lara Croft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source Monthly – May 2022 Edition]]></title>
-        <id>https://github.blog/?p=64908</id>
-        <link href="https://github.blog/2022-05-11-open-source-monthly-may-2022-edition/"/>
-        <updated>2022-05-11T15:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Open Sauced, GitHub’s Explore page, Hacktoberfest, and First Timers Only help folks discover open source projects. This monthly series–Open Source Monthly—will add to these efforts by helping: First-time contributors find the right project to contribute to Corporations and individuals find a new project to sponsor Open source maintainers gain more consistent contributors and sponsors […]]]></summary>
-        <author>
-            <name>Rizel Scarlett</name>
         </author>
     </entry>
     <entry>
