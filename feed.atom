@@ -1,28 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-30T01:05:33.191Z</id>
+    <id>urn:2022-06-06T00:59:25.884Z</id>
     <title>osmos::feed</title>
-    <updated>2022-05-30T01:05:33.191Z</updated>
+    <updated>2022-06-06T00:59:25.884Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[npm security update: Attack campaign using stolen OAuth tokens]]></title>
-        <id>https://github.blog/?p=65217</id>
-        <link href="https://github.blog/2022-05-26-npm-security-update-oauth-tokens/"/>
-        <updated>2022-05-27T04:37:28.000Z</updated>
-        <summary type="html"><![CDATA[npm's impact analysis of the attack campaign using stolen OAuth tokens and additional findings.]]></summary>
+        <title type="html"><![CDATA[A beginner’s guide to CI/CD and automation on GitHub]]></title>
+        <id>https://github.blog/?p=65362</id>
+        <link href="https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/"/>
+        <updated>2022-06-03T17:31:19.000Z</updated>
+        <summary type="html"><![CDATA[CI/CD and workflow automation are native capabilities on GitHub platform. Here’s how to start using them and speed up your workflows.]]></summary>
         <author>
-            <name>Greg Ose</name>
+            <name>Rizel Scarlett</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How we use Dependabot to secure GitHub]]></title>
-        <id>https://github.blog/?p=65226</id>
-        <link href="https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/"/>
-        <updated>2022-05-25T22:22:22.000Z</updated>
-        <summary type="html"><![CDATA[A two-part story about how GitHub’s Product Security Engineering team rolled out Dependabot internally to track vulnerable dependencies, and how GitHub tracks and prioritizes technical debt.]]></summary>
+        <title type="html"><![CDATA[Making technical interviews better for everyone]]></title>
+        <id>https://github.blog/?p=65425</id>
+        <link href="https://github.blog/2022-06-03-making-technical-interviews-better-for-everyone/"/>
+        <updated>2022-06-03T09:00:13.000Z</updated>
+        <summary type="html"><![CDATA[How to interview for skill, not spare time.]]></summary>
         <author>
-            <name>Phil Turnbull</name>
+            <name>Klint Finley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s new in security and user management for GitHub Enterprise]]></title>
+        <id>https://github.blog/?p=65400</id>
+        <link href="https://github.blog/2022-06-02-whats-new-in-security-and-user-management-for-github-enterprise/"/>
+        <updated>2022-06-02T16:52:14.000Z</updated>
+        <summary type="html"><![CDATA[Learn how you can securely manage users with the latest ships for GitHub Enterprise.]]></summary>
+        <author>
+            <name>Rizel Scarlett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub All In: Our first student cohort and what’s next]]></title>
+        <id>https://github.blog/?p=65197</id>
+        <link href="https://github.blog/2022-06-02-github-all-in-our-first-student-cohort-and-whats-next/"/>
+        <updated>2022-06-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join us on the GitHub All In journey.]]></summary>
+        <author>
+            <name>Demetris Cheatham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Team or Free? How to choose the right plan]]></title>
+        <id>https://github.blog/?p=65380</id>
+        <link href="https://github.blog/2022-06-01-github-team-or-free-how-to-choose-the-right-plan/"/>
+        <updated>2022-06-01T21:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Read about all the features you may not have known come on the GitHub Free plan, and how to choose the right plan for you.]]></summary>
+        <author>
+            <name>Kelsey Bernius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Maintainer Month! 🎉]]></title>
+        <id>https://github.blog/?p=65390</id>
+        <link href="https://github.blog/2022-06-01-welcome-to-maintainer-month/"/>
+        <updated>2022-06-01T19:10:48.000Z</updated>
+        <summary type="html"><![CDATA[During the month of June, we’re holding space for open source maintainers to gather, share, and be celebrated.]]></summary>
+        <author>
+            <name>Kara Sowles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Availability Report: May 2022]]></title>
+        <id>https://github.blog/?p=65340</id>
+        <link href="https://github.blog/2022-06-01-github-availability-report-may-2022/"/>
+        <updated>2022-06-01T18:55:09.000Z</updated>
+        <summary type="html"><![CDATA[In May, we experienced three distinct incidents resulting in significant impact to multiple services across GitHub.com. This report also sheds light into the billing incident that impacted Actions and Codespaces users in April.]]></summary>
+        <author>
+            <name>Jakub Oleksy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connecting to a private network from GitHub-hosted Actions runners]]></title>
+        <id>https://github.blog/?p=65333</id>
+        <link href="https://github.blog/2022-06-01-connecting-to-a-private-network-from-github-hosted-actions-runners/"/>
+        <updated>2022-06-01T16:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Several ways for GitHub-hosted Actions runners to connect to resources on your private network.]]></summary>
+        <author>
+            <name>Zachary Steindler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Sponsors launches in Brazil]]></title>
+        <id>https://github.blog/?p=65346</id>
+        <link href="https://github.blog/2022-06-01-github-sponsors-launches-in-brazil/"/>
+        <updated>2022-06-01T13:00:43.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Sponsors is now available in Brazil—an exciting expansion for one of our fastest growing developer communities.]]></summary>
+        <author>
+            <name>Jessica Lord</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Enterprise Server 3.5 is now generally available]]></title>
+        <id>https://github.blog/?p=65243</id>
+        <link href="https://github.blog/2022-05-31-github-enterprise-server-3-5-is-now-generally-available/"/>
+        <updated>2022-05-31T16:36:05.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Enterprise Server 3.5 is available now, including access to the Container registry, the addition of Dependabot, enhanced administrator capabilities, and features for GitHub Advanced Security.]]></summary>
+        <author>
+            <name>Melody Mileski</name>
         </author>
     </entry>
     <entry>
@@ -34,86 +114,6 @@
 The post Announcing TypeScript 4.7 appeared first on TypeScript.]]></summary>
         <author>
             <name>Daniel Rosenwasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improved REST API documentation]]></title>
-        <id>https://github.blog/?p=65096</id>
-        <link href="https://github.blog/2022-05-24-improved-rest-api-documentation/"/>
-        <updated>2022-05-24T16:00:53.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to announce some big improvements to our REST API documentation. We know developers rely on this documentation to integrate with GitHub, and we are committed to making it trustworthy, easy to find, and easy to use.]]></summary>
-        <author>
-            <name>Rachael Sewell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Sponsors launches in India]]></title>
-        <id>https://github.blog/?p=65180</id>
-        <link href="https://github.blog/2022-05-23-github-sponsors-launches-in-india/"/>
-        <updated>2022-05-24T03:30:37.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Sponsors is now available to all developers in India – no more waitlist, you can sign up right away!]]></summary>
-        <author>
-            <name>Jessica Lord</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eight years of the GitHub Security Bug Bounty program]]></title>
-        <id>https://github.blog/?p=65156</id>
-        <link href="https://github.blog/2022-05-23-eight-years-of-the-github-security-bug-bounty-program/"/>
-        <updated>2022-05-23T17:54:46.000Z</updated>
-        <summary type="html"><![CDATA[It was another record year for our Security Bug Bounty program. We're excited to highlight some achievements we’ve made together with the bounty community from 2021!]]></summary>
-        <author>
-            <name>Jill Moné-Corallo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Release Radar · April 2022 Edition]]></title>
-        <id>https://github.blog/?p=65072</id>
-        <link href="https://github.blog/2022-05-20-release-radar-apr-2022/"/>
-        <updated>2022-05-20T16:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Each month, we highlight open source projects that have shipped major updates. These include everything from world-changing technology to developer tooling, and weekend projects. Here are our top staff picks on projects that shipped major version releases in April. Flyte 1.0 I was lucky enough to discover Flyte during Hacktoberfest last year. Now, Flyte has […]]]></summary>
-        <author>
-            <name>Michelle Mannering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Action needed by GitHub Connect customers using GHES 3.1 and older to adopt new authentication token format updates]]></title>
-        <id>https://github.blog/?p=65110</id>
-        <link href="https://github.blog/2022-05-20-action-needed-by-github-connect-customers-using-ghes-3-1-and-older-to-adopt-new-authentication-token-format-updates/"/>
-        <updated>2022-05-20T15:27:38.000Z</updated>
-        <summary type="html"><![CDATA[Upgrade to GHES 3.2 or newer by June 3rd to continue using GitHub Connect.]]></summary>
-        <author>
-            <name>Jim Boyle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Math support in Markdown]]></title>
-        <id>https://github.blog/?p=65023</id>
-        <link href="https://github.blog/2022-05-19-math-support-in-markdown/"/>
-        <updated>2022-05-19T17:41:03.000Z</updated>
-        <summary type="html"><![CDATA[Mathematical expressions are key to information sharing amongst engineers, scientists, data scientists, and mathematicians. Today we are pleased to announce that math expressions can be rendered in Markdown on GitHub using $$ as a delimiter for code blocks with math content or the $ delimiter for inline math expressions.]]></summary>
-        <author>
-            <name>Martin Woodward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we’re continuing to enable all developers to build]]></title>
-        <id>https://github.blog/?p=65049</id>
-        <link href="https://github.blog/2022-05-19-how-were-continuing-to-enable-all-developers-to-build/"/>
-        <updated>2022-05-19T16:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Learn about what GitHub is doing to make their products more inclusive, and what’s next.]]></summary>
-        <author>
-            <name>Benjamin Allen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing and delivering high-quality code with innersource metrics]]></title>
-        <id>https://github.blog/?p=65060</id>
-        <link href="https://github.blog/2022-05-18-securing-and-delivering-high-quality-code-with-innersource-metrics/"/>
-        <updated>2022-05-18T21:50:03.000Z</updated>
-        <summary type="html"><![CDATA[With innersource, it’s important to measure both the amount of innersource activity and the quality of the code being created. Here’s how.]]></summary>
-        <author>
-            <name>Zack Koppert</name>
         </author>
     </entry>
     <entry>
@@ -135,17 +135,6 @@ The post Announcing TypeScript 4.7 appeared first on TypeScript.]]></summary>
 The post Announcing TypeScript 4.7 RC appeared first on TypeScript.]]></summary>
         <author>
             <name>Daniel Rosenwasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code April 2022]]></title>
-        <id>https://code.visualstudio.com/updates/v1_67</id>
-        <link href="https://code.visualstudio.com/updates/v1_67"/>
-        <updated>2022-05-05T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio Code April 2022
-Read the full article]]></summary>
-        <author>
-            <name>Visual Studio Code - Code Editing. Redefined.</name>
         </author>
     </entry>
 </feed>

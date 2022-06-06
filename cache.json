@@ -6,104 +6,104 @@
       "siteUrl": "https://github.blog",
       "articles": [
         {
-          "id": "https://github.blog/?p=65217",
-          "author": "Greg Ose",
-          "description": "npm's impact analysis of the attack campaign using stolen OAuth tokens and additional findings.",
-          "link": "https://github.blog/2022-05-26-npm-security-update-oauth-tokens/",
-          "publishedOn": "2022-05-27T04:37:28.000Z",
-          "wordCount": 1814,
-          "title": "npm security update: Attack campaign using stolen OAuth tokens",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/05/Security-Product@2x-1.png"
+          "id": "https://github.blog/?p=65362",
+          "author": "Rizel Scarlett",
+          "description": "CI/CD and workflow automation are native capabilities on GitHub platform. Here’s how to start using them and speed up your workflows.",
+          "link": "https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/",
+          "publishedOn": "2022-06-03T17:31:19.000Z",
+          "wordCount": 2452,
+          "title": "A beginner’s guide to CI/CD and automation on GitHub",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/image2better.png"
         },
         {
-          "id": "https://github.blog/?p=65226",
-          "author": "Phil Turnbull",
-          "description": "A two-part story about how GitHub’s Product Security Engineering team rolled out Dependabot internally to track vulnerable dependencies, and how GitHub tracks and prioritizes technical debt.",
-          "link": "https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/",
-          "publishedOn": "2022-05-25T22:22:22.000Z",
-          "wordCount": 1978,
-          "title": "How we use Dependabot to secure GitHub",
+          "id": "https://github.blog/?p=65425",
+          "author": "Klint Finley",
+          "description": "How to interview for skill, not spare time.",
+          "link": "https://github.blog/2022-06-03-making-technical-interviews-better-for-everyone/",
+          "publishedOn": "2022-06-03T09:00:13.000Z",
+          "wordCount": 2199,
+          "title": "Making technical interviews better for everyone",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/2400x1260-ReadMe-Blog-Banner-052322.jpg"
+        },
+        {
+          "id": "https://github.blog/?p=65400",
+          "author": "Rizel Scarlett",
+          "description": "Learn how you can securely manage users with the latest ships for GitHub Enterprise.",
+          "link": "https://github.blog/2022-06-02-whats-new-in-security-and-user-management-for-github-enterprise/",
+          "publishedOn": "2022-06-02T16:52:14.000Z",
+          "wordCount": 923,
+          "title": "What’s new in security and user management for GitHub Enterprise",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Security-Enterprise@2x.png"
         },
         {
-          "id": "https://github.blog/?p=65096",
-          "author": "Rachael Sewell",
-          "description": "We’re excited to announce some big improvements to our REST API documentation. We know developers rely on this documentation to integrate with GitHub, and we are committed to making it trustworthy, easy to find, and easy to use.",
-          "link": "https://github.blog/2022-05-24-improved-rest-api-documentation/",
-          "publishedOn": "2022-05-24T16:00:53.000Z",
-          "wordCount": 1192,
-          "title": "Improved REST API documentation",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/01/Engineering_Product.png?fit=1200%2C630"
+          "id": "https://github.blog/?p=65197",
+          "author": "Demetris Cheatham",
+          "description": "Join us on the GitHub All In journey.",
+          "link": "https://github.blog/2022-06-02-github-all-in-our-first-student-cohort-and-whats-next/",
+          "publishedOn": "2022-06-02T16:00:00.000Z",
+          "wordCount": 968,
+          "title": "GitHub All In: Our first student cohort and what’s next",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/05/Community-Open-Source@2x.png"
         },
         {
-          "id": "https://github.blog/?p=65180",
+          "id": "https://github.blog/?p=65380",
+          "author": "Kelsey Bernius",
+          "description": "Read about all the features you may not have known come on the GitHub Free plan, and how to choose the right plan for you.",
+          "link": "https://github.blog/2022-06-01-github-team-or-free-how-to-choose-the-right-plan/",
+          "publishedOn": "2022-06-01T21:09:27.000Z",
+          "wordCount": 1047,
+          "title": "GitHub Team or Free? How to choose the right plan",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/github-gree.png"
+        },
+        {
+          "id": "https://github.blog/?p=65390",
+          "author": "Kara Sowles",
+          "description": "During the month of June, we’re holding space for open source maintainers to gather, share, and be celebrated.",
+          "link": "https://github.blog/2022-06-01-welcome-to-maintainer-month/",
+          "publishedOn": "2022-06-01T19:10:48.000Z",
+          "wordCount": 651,
+          "title": "Welcome to Maintainer Month! 🎉",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/header-image.jpeg"
+        },
+        {
+          "id": "https://github.blog/?p=65340",
+          "author": "Jakub Oleksy",
+          "description": "In May, we experienced three distinct incidents resulting in significant impact to multiple services across GitHub.com. This report also sheds light into the billing incident that impacted Actions and Codespaces users in April.",
+          "link": "https://github.blog/2022-06-01-github-availability-report-may-2022/",
+          "publishedOn": "2022-06-01T18:55:09.000Z",
+          "wordCount": 1066,
+          "title": "GitHub Availability Report: May 2022",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/05/Engineering-Enterprise@2x.png"
+        },
+        {
+          "id": "https://github.blog/?p=65333",
+          "author": "Zachary Steindler",
+          "description": "Several ways for GitHub-hosted Actions runners to connect to resources on your private network.",
+          "link": "https://github.blog/2022-06-01-connecting-to-a-private-network-from-github-hosted-actions-runners/",
+          "publishedOn": "2022-06-01T16:28:58.000Z",
+          "wordCount": 842,
+          "title": "Connecting to a private network from GitHub-hosted Actions runners",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/05/Security-Product@2x-1.png"
+        },
+        {
+          "id": "https://github.blog/?p=65346",
           "author": "Jessica Lord",
-          "description": "GitHub Sponsors is now available to all developers in India – no more waitlist, you can sign up right away!",
-          "link": "https://github.blog/2022-05-23-github-sponsors-launches-in-india/",
-          "publishedOn": "2022-05-24T03:30:37.000Z",
-          "wordCount": 644,
-          "title": "GitHub Sponsors launches in India",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/05/169177674-9d395f34-f954-4538-9b67-f4d5e72ad2ad.png"
+          "description": "GitHub Sponsors is now available in Brazil—an exciting expansion for one of our fastest growing developer communities.",
+          "link": "https://github.blog/2022-06-01-github-sponsors-launches-in-brazil/",
+          "publishedOn": "2022-06-01T13:00:43.000Z",
+          "wordCount": 884,
+          "title": "GitHub Sponsors launches in Brazil",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/github-brazil.png"
         },
         {
-          "id": "https://github.blog/?p=65156",
-          "author": "Jill Moné-Corallo",
-          "description": "It was another record year for our Security Bug Bounty program. We're excited to highlight some achievements we’ve made together with the bounty community from 2021!",
-          "link": "https://github.blog/2022-05-23-eight-years-of-the-github-security-bug-bounty-program/",
-          "publishedOn": "2022-05-23T17:54:46.000Z",
-          "wordCount": 1488,
-          "title": "Eight years of the GitHub Security Bug Bounty program",
-          "imageUrl": "https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png"
-        },
-        {
-          "id": "https://github.blog/?p=65072",
-          "author": "Michelle Mannering",
-          "description": "Each month, we highlight open source projects that have shipped major updates. These include everything from world-changing technology to developer tooling, and weekend projects. Here are our top staff picks on projects that shipped major version releases in April. Flyte 1.0 I was lucky enough to discover Flyte during Hacktoberfest last year. Now, Flyte has […]",
-          "link": "https://github.blog/2022-05-20-release-radar-apr-2022/",
-          "publishedOn": "2022-05-20T16:00:05.000Z",
-          "wordCount": 1291,
-          "title": "Release Radar · April 2022 Edition",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/05/Release-Radar-April-2022.jpg?fit=1200%2C630"
-        },
-        {
-          "id": "https://github.blog/?p=65110",
-          "author": "Jim Boyle",
-          "description": "Upgrade to GHES 3.2 or newer by June 3rd to continue using GitHub Connect.",
-          "link": "https://github.blog/2022-05-20-action-needed-by-github-connect-customers-using-ghes-3-1-and-older-to-adopt-new-authentication-token-format-updates/",
-          "publishedOn": "2022-05-20T15:27:38.000Z",
-          "wordCount": 483,
-          "title": "Action needed by GitHub Connect customers using GHES 3.1 and older to adopt new authentication token format updates",
-          "imageUrl": "https://github.blog/wp-content/uploads/2021/12/engineering-product_orange-green-banner.png"
-        },
-        {
-          "id": "https://github.blog/?p=65023",
-          "author": "Martin Woodward",
-          "description": "Mathematical expressions are key to information sharing amongst engineers, scientists, data scientists, and mathematicians. Today we are pleased to announce that math expressions can be rendered in Markdown on GitHub using $$ as a delimiter for code blocks with math content or the $ delimiter for inline math expressions.",
-          "link": "https://github.blog/2022-05-19-math-support-in-markdown/",
-          "publishedOn": "2022-05-19T17:41:03.000Z",
-          "wordCount": 617,
-          "title": "Math support in Markdown",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/05/Math-Support-Social-2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=65049",
-          "author": "Benjamin Allen",
-          "description": "Learn about what GitHub is doing to make their products more inclusive, and what’s next.",
-          "link": "https://github.blog/2022-05-19-how-were-continuing-to-enable-all-developers-to-build/",
-          "publishedOn": "2022-05-19T16:48:04.000Z",
-          "wordCount": 1119,
-          "title": "How we’re continuing to enable all developers to build",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/05/Product-Community@2x.png"
-        },
-        {
-          "id": "https://github.blog/?p=65060",
-          "author": "Zack Koppert",
-          "description": "With innersource, it’s important to measure both the amount of innersource activity and the quality of the code being created. Here’s how.",
-          "link": "https://github.blog/2022-05-18-securing-and-delivering-high-quality-code-with-innersource-metrics/",
-          "publishedOn": "2022-05-18T21:50:03.000Z",
-          "wordCount": 830,
-          "title": "Securing and delivering high-quality code with innersource metrics",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/02/Engineering-Enterprise@2x.png"
+          "id": "https://github.blog/?p=65243",
+          "author": "Melody Mileski",
+          "description": "GitHub Enterprise Server 3.5 is available now, including access to the Container registry, the addition of Dependabot, enhanced administrator capabilities, and features for GitHub Advanced Security.",
+          "link": "https://github.blog/2022-05-31-github-enterprise-server-3-5-is-now-generally-available/",
+          "publishedOn": "2022-05-31T16:36:05.000Z",
+          "wordCount": 1475,
+          "title": "GitHub Enterprise Server 3.5 is now generally available",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/05/GHES-GA.png"
         }
       ]
     },
@@ -127,16 +127,6 @@
           "wordCount": 1451,
           "title": "Development Container CLI",
           "imageUrl": "https://code.visualstudio.com/opengraphimg/opengraph-blog.png"
-        },
-        {
-          "id": "https://code.visualstudio.com/updates/v1_67",
-          "author": null,
-          "description": "Visual Studio Code April 2022\nRead the full article",
-          "link": "https://code.visualstudio.com/updates/v1_67",
-          "publishedOn": "2022-05-05T17:00:00.000Z",
-          "wordCount": 5751,
-          "title": "Visual Studio Code April 2022",
-          "imageUrl": "https://code.visualstudio.com/assets/updates/1_67/release-highlights.png"
         }
       ]
     },
@@ -151,7 +141,7 @@
           "description": "Today we’re excited to announce the availability of TypeScript 4.7!\nThe post Announcing TypeScript 4.7 appeared first on TypeScript.",
           "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/",
           "publishedOn": "2022-05-24T19:36:55.000Z",
-          "wordCount": 6389,
+          "wordCount": 6598,
           "title": "Announcing TypeScript 4.7",
           "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png"
         },
